@@ -1,0 +1,3236 @@
+[
+  {
+    "nome": "3R PETROLEUM",
+    "cvm_code": "25291",
+    "tickers": [
+      "RRRP3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "524 PARTICIP",
+    "cvm_code": "16284",
+    "tickers": [
+      "QVQP3B"
+    ],
+    "segmento": "MB"
+  },
+  {
+    "nome": "ADVANCED-DH",
+    "cvm_code": "21725",
+    "tickers": [
+      "ADHM3"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "AERIS",
+    "cvm_code": "25283",
+    "tickers": [
+      "AERI3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "AES TIETE E",
+    "cvm_code": "18970",
+    "tickers": [
+      "TIET11",
+      "TIET3",
+      "TIET4"
+    ],
+    "segmento": "N2"
+  },
+  {
+    "nome": "AFLUENTE T",
+    "cvm_code": "22179",
+    "tickers": [
+      "AFLT3"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "ALEF S/A",
+    "cvm_code": "16705",
+    "tickers": [
+      "ALEF3B"
+    ],
+    "segmento": "MB"
+  },
+  {
+    "nome": "ALFA HOLDING",
+    "cvm_code": "9954",
+    "tickers": [
+      "RPAD3",
+      "RPAD5",
+      "RPAD6"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "ALIANSCSONAE",
+    "cvm_code": "22357",
+    "tickers": [
+      "ALSO3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "ESTAPAR",
+    "cvm_code": "24953",
+    "tickers": [
+      "ALPK3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "ALPARGATAS",
+    "cvm_code": "10456",
+    "tickers": [
+      "ALPA3",
+      "ALPA4"
+    ],
+    "segmento": "N1"
+  },
+  {
+    "nome": "ALPER S.A.",
+    "cvm_code": "22217",
+    "tickers": [
+      "APER3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "ALUPAR",
+    "cvm_code": "21490",
+    "tickers": [
+      "ALUP11",
+      "ALUP3",
+      "ALUP4"
+    ],
+    "segmento": "N2"
+  },
+  {
+    "nome": "AMBEV S/A",
+    "cvm_code": "23264",
+    "tickers": [
+      "ABEV3"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "AMBIPAR",
+    "cvm_code": "24961",
+    "tickers": [
+      "AMBP3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "AMPLA ENERG",
+    "cvm_code": "3050",
+    "tickers": [
+      "CBEE3"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "ANIMA",
+    "cvm_code": "23248",
+    "tickers": [
+      "ANIM3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "AREZZO CO",
+    "cvm_code": "22349",
+    "tickers": [
+      "ARZZ3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "CARREFOUR BR",
+    "cvm_code": "24171",
+    "tickers": [
+      "CRFB3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "ATMASA",
+    "cvm_code": "19100",
+    "tickers": [
+      "ATMP3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "ATOMPAR",
+    "cvm_code": "15423",
+    "tickers": [
+      "ATOM3"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "AURA 360",
+    "cvm_code": "80187",
+    "tickers": [
+      "AURA33"
+    ],
+    "segmento": "DR3"
+  },
+  {
+    "nome": "AZEVEDO",
+    "cvm_code": "11975",
+    "tickers": [
+      "AZEV3",
+      "AZEV4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "AZUL",
+    "cvm_code": "24112",
+    "tickers": [
+      "AZUL4"
+    ],
+    "segmento": "N2"
+  },
+  {
+    "nome": "B2W DIGITAL",
+    "cvm_code": "20990",
+    "tickers": [
+      "BTOW3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "B3",
+    "cvm_code": "21610",
+    "tickers": [
+      "B3SA3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "BAHEMA",
+    "cvm_code": "701",
+    "tickers": [
+      "BAHI3"
+    ],
+    "segmento": "MA"
+  },
+  {
+    "nome": "BANCO BMG",
+    "cvm_code": "24600",
+    "tickers": [
+      "BMGB4"
+    ],
+    "segmento": "N1"
+  },
+  {
+    "nome": "BANCO INTER",
+    "cvm_code": "24406",
+    "tickers": [
+      "BIDI11",
+      "BIDI3",
+      "BIDI4"
+    ],
+    "segmento": "N2"
+  },
+  {
+    "nome": "BANESTES",
+    "cvm_code": "1155",
+    "tickers": [
+      "BEES3",
+      "BEES4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "BARDELLA",
+    "cvm_code": "1520",
+    "tickers": [
+      "BDLL3",
+      "BDLL4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "BATTISTELLA",
+    "cvm_code": "15458",
+    "tickers": [
+      "BTTL3"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "BAUMER",
+    "cvm_code": "1562",
+    "tickers": [
+      "BALM3",
+      "BALM4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "BBSEGURIDADE",
+    "cvm_code": "23159",
+    "tickers": [
+      "BBSE3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "BBMLOGISTICA",
+    "cvm_code": "24660",
+    "tickers": [
+      "BBML3"
+    ],
+    "segmento": "MA"
+  },
+  {
+    "nome": "ABC BRASIL",
+    "cvm_code": "20958",
+    "tickers": [
+      "ABCB4",
+      "ABCB10"
+    ],
+    "segmento": "N2"
+  },
+  {
+    "nome": "ALFA INVEST",
+    "cvm_code": "1384",
+    "tickers": [
+      "BRIV3",
+      "BRIV4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "AMAZONIA",
+    "cvm_code": "922",
+    "tickers": [
+      "BAZA3"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "BRADESCO",
+    "cvm_code": "906",
+    "tickers": [
+      "BBDC3",
+      "BBDC4"
+    ],
+    "segmento": "N1"
+  },
+  {
+    "nome": "BRASIL",
+    "cvm_code": "1023",
+    "tickers": [
+      "BBAS11",
+      "BBAS12",
+      "BBAS3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "BTGP BANCO",
+    "cvm_code": "22616",
+    "tickers": [
+      "BPAC11",
+      "BPAC3",
+      "BPAC5"
+    ],
+    "segmento": "N2"
+  },
+  {
+    "nome": "BANESE",
+    "cvm_code": "1120",
+    "tickers": [
+      "BGIP3",
+      "BGIP4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "BANPARA",
+    "cvm_code": "1171",
+    "tickers": [
+      "BPAR3"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "BANRISUL",
+    "cvm_code": "1210",
+    "tickers": [
+      "BRSR3",
+      "BRSR5",
+      "BRSR6"
+    ],
+    "segmento": "N1"
+  },
+  {
+    "nome": "INDUSVAL",
+    "cvm_code": "20885",
+    "tickers": [
+      "IDVL3",
+      "IDVL4"
+    ],
+    "segmento": "N2"
+  },
+  {
+    "nome": "MERC INVEST",
+    "cvm_code": "1309",
+    "tickers": [
+      "BMIN3",
+      "BMIN4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "MERC BRASIL",
+    "cvm_code": "1325",
+    "tickers": [
+      "BMEB3",
+      "BMEB4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "NORD BRASIL",
+    "cvm_code": "1228",
+    "tickers": [
+      "BNBR3"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "BANCO PAN",
+    "cvm_code": "21199",
+    "tickers": [
+      "BPAN4"
+    ],
+    "segmento": "N1"
+  },
+  {
+    "nome": "PINE",
+    "cvm_code": "20567",
+    "tickers": [
+      "PINE3",
+      "PINE4"
+    ],
+    "segmento": "N2"
+  },
+  {
+    "nome": "SANTANDER BR",
+    "cvm_code": "20532",
+    "tickers": [
+      "SANB11",
+      "SANB3",
+      "SANB4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "BETAPART",
+    "cvm_code": "17884",
+    "tickers": [
+      "BETP3B"
+    ],
+    "segmento": "MB"
+  },
+  {
+    "nome": "BIC MONARK",
+    "cvm_code": "1694",
+    "tickers": [
+      "BMKS3"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "BIOMM",
+    "cvm_code": "19305",
+    "tickers": [
+      "BIOM3"
+    ],
+    "segmento": "MA"
+  },
+  {
+    "nome": "BIOSEV",
+    "cvm_code": "22845",
+    "tickers": [
+      "BSEV3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "BK BRASIL",
+    "cvm_code": "24317",
+    "tickers": [
+      "BKBR3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "BOA VISTA",
+    "cvm_code": "25135",
+    "tickers": [
+      "BOAS3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "BOMBRIL",
+    "cvm_code": "12190",
+    "tickers": [
+      "BOBR3",
+      "BOBR4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "BR MALLS PAR",
+    "cvm_code": "19909",
+    "tickers": [
+      "BRML3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "BR PROPERT",
+    "cvm_code": "19925",
+    "tickers": [
+      "BRPR3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "BRADESPAR",
+    "cvm_code": "18724",
+    "tickers": [
+      "BRAP3",
+      "BRAP4"
+    ],
+    "segmento": "N1"
+  },
+  {
+    "nome": "BR BROKERS",
+    "cvm_code": "21180",
+    "tickers": [
+      "BBRK3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "BRASILAGRO",
+    "cvm_code": "20036",
+    "tickers": [
+      "AGRO3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "BRASKEM",
+    "cvm_code": "4820",
+    "tickers": [
+      "BRKM3",
+      "BRKM5",
+      "BRKM6"
+    ],
+    "segmento": "N1"
+  },
+  {
+    "nome": "BRAZILIAN SC",
+    "cvm_code": "18759",
+    "tickers": [
+      "BSCS-CRIT2B0",
+      "BSCS-CRIT3B0"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "BRB BANCO",
+    "cvm_code": "14206",
+    "tickers": [
+      "BSLI3",
+      "BSLI4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "BRF SA",
+    "cvm_code": "16292",
+    "tickers": [
+      "BRFS3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "BRPR 56 SEC",
+    "cvm_code": "19984",
+    "tickers": [
+      "WTVR-CRI11B0"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "BRQ",
+    "cvm_code": "23817",
+    "tickers": [
+      "BRQB3"
+    ],
+    "segmento": "MA"
+  },
+  {
+    "nome": "CABINDA PART",
+    "cvm_code": "19119",
+    "tickers": [
+      "CABI3B"
+    ],
+    "segmento": "MB"
+  },
+  {
+    "nome": "CACONDE PART",
+    "cvm_code": "19135",
+    "tickers": [
+      "CACO3B"
+    ],
+    "segmento": "MB"
+  },
+  {
+    "nome": "CAMBUCI",
+    "cvm_code": "2100",
+    "tickers": [
+      "CAMB3"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "CAMIL",
+    "cvm_code": "24228",
+    "tickers": [
+      "CAML3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "CCR SA",
+    "cvm_code": "18821",
+    "tickers": [
+      "CCRO3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "CEA MODAS",
+    "cvm_code": "24848",
+    "tickers": [
+      "CEAB3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "CEMEPE",
+    "cvm_code": "13854",
+    "tickers": [
+      "MAPT3",
+      "MAPT4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "ELETROBRAS",
+    "cvm_code": "2437",
+    "tickers": [
+      "ELET3",
+      "ELET5",
+      "ELET6"
+    ],
+    "segmento": "N1"
+  },
+  {
+    "nome": "CELESC",
+    "cvm_code": "2461",
+    "tickers": [
+      "CLSC3",
+      "CLSC4"
+    ],
+    "segmento": "N2"
+  },
+  {
+    "nome": "ALLIAR",
+    "cvm_code": "24058",
+    "tickers": [
+      "AALR3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "CESP",
+    "cvm_code": "2577",
+    "tickers": [
+      "CESP3",
+      "CESP5",
+      "CESP6"
+    ],
+    "segmento": "N1"
+  },
+  {
+    "nome": "P.ACUCAR-CBD",
+    "cvm_code": "14826",
+    "tickers": [
+      "PCAR3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "CASAN",
+    "cvm_code": "16861",
+    "tickers": [
+      "CASN3",
+      "CASN4",
+      "CASN1",
+      "CASN2"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "CELGPAR",
+    "cvm_code": "21393",
+    "tickers": [
+      "GPAR3"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "CEG",
+    "cvm_code": "16616",
+    "tickers": [
+      "CEGR3"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "COELBA",
+    "cvm_code": "14524",
+    "tickers": [
+      "CEEB3",
+      "CEEB5",
+      "CEEB6"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "CEB",
+    "cvm_code": "14451",
+    "tickers": [
+      "CEBR3",
+      "CEBR5",
+      "CEBR6"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "CEMIG",
+    "cvm_code": "2453",
+    "tickers": [
+      "CMIG3",
+      "CMIG4"
+    ],
+    "segmento": "N1"
+  },
+  {
+    "nome": "CELPE",
+    "cvm_code": "14362",
+    "tickers": [
+      "CEPE3",
+      "CEPE5",
+      "CEPE6"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "COELCE",
+    "cvm_code": "14869",
+    "tickers": [
+      "COCE3",
+      "COCE5",
+      "COCE6"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "COSERN",
+    "cvm_code": "18139",
+    "tickers": [
+      "CSRN3",
+      "CSRN5",
+      "CSRN6"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "CEEE-D",
+    "cvm_code": "20648",
+    "tickers": [
+      "CEED3",
+      "CEED4"
+    ],
+    "segmento": "N1"
+  },
+  {
+    "nome": "CEEE-GT",
+    "cvm_code": "3204",
+    "tickers": [
+      "EEEL3",
+      "EEEL4"
+    ],
+    "segmento": "N1"
+  },
+  {
+    "nome": "FERBASA",
+    "cvm_code": "3069",
+    "tickers": [
+      "FESA3",
+      "FESA4"
+    ],
+    "segmento": "N1"
+  },
+  {
+    "nome": "CEDRO",
+    "cvm_code": "3077",
+    "tickers": [
+      "CEDO3",
+      "CEDO4"
+    ],
+    "segmento": "N1"
+  },
+  {
+    "nome": "COMGAS",
+    "cvm_code": "15636",
+    "tickers": [
+      "CGAS3",
+      "CGAS5"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "HABITASUL",
+    "cvm_code": "3298",
+    "tickers": [
+      "HBTS3",
+      "HBTS5",
+      "HBTS6"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "CIA HERING",
+    "cvm_code": "14761",
+    "tickers": [
+      "HGTX3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "IND CATAGUAS",
+    "cvm_code": "3395",
+    "tickers": [
+      "CATA3",
+      "CATA4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "LOCAMERICA",
+    "cvm_code": "22691",
+    "tickers": [
+      "LCAM3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "MELHOR SP",
+    "cvm_code": "3654",
+    "tickers": [
+      "MSPA3",
+      "MSPA4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "COPEL",
+    "cvm_code": "14311",
+    "tickers": [
+      "CPLE3",
+      "CPLE5",
+      "CPLE6"
+    ],
+    "segmento": "N1"
+  },
+  {
+    "nome": "PAR AL BAHIA",
+    "cvm_code": "18708",
+    "tickers": [
+      "PEAB3",
+      "PEAB4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "SABESP",
+    "cvm_code": "14443",
+    "tickers": [
+      "SBSP3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "COPASA",
+    "cvm_code": "19445",
+    "tickers": [
+      "CSMG3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "SANEPAR",
+    "cvm_code": "18627",
+    "tickers": [
+      "SAPR11",
+      "SAPR3",
+      "SAPR4"
+    ],
+    "segmento": "N2"
+  },
+  {
+    "nome": "SEG AL BAHIA",
+    "cvm_code": "3115",
+    "tickers": [
+      "CSAB3",
+      "CSAB4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "SID NACIONAL",
+    "cvm_code": "4030",
+    "tickers": [
+      "CSNA3"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "COTEMINAS",
+    "cvm_code": "3158",
+    "tickers": [
+      "CTNM3",
+      "CTNM4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "SANTANENSE",
+    "cvm_code": "4081",
+    "tickers": [
+      "CTSA3",
+      "CTSA4",
+      "CTSA8"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "CIBRASEC",
+    "cvm_code": "18287",
+    "tickers": [
+      "CBSC-CRA19B0",
+      "CBSC-CRA1BB0"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "CIELO",
+    "cvm_code": "21733",
+    "tickers": [
+      "CIEL3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "CIMS",
+    "cvm_code": "14818",
+    "tickers": [
+      "CMSA3",
+      "CMSA4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "CINESYSTEM",
+    "cvm_code": "23965",
+    "tickers": [
+      "CNSY3"
+    ],
+    "segmento": "MA"
+  },
+  {
+    "nome": "COGNA ON",
+    "cvm_code": "17973",
+    "tickers": [
+      "COGN3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "CONC RIO TER",
+    "cvm_code": "19208",
+    "tickers": [
+      "CRTE3B",
+      "CRTE5B"
+    ],
+    "segmento": "MB"
+  },
+  {
+    "nome": "ODERICH",
+    "cvm_code": "4693",
+    "tickers": [
+      "ODER3",
+      "ODER4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "ALFA CONSORC",
+    "cvm_code": "4707",
+    "tickers": [
+      "BRGE11",
+      "BRGE12",
+      "BRGE3",
+      "BRGE5",
+      "BRGE6",
+      "BRGE7",
+      "BRGE8"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "CONST A LIND",
+    "cvm_code": "4723",
+    "tickers": [
+      "CALI3",
+      "CALI4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "TENDA",
+    "cvm_code": "21148",
+    "tickers": [
+      "TEND3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "COR RIBEIRO",
+    "cvm_code": "4863",
+    "tickers": [
+      "CORR3",
+      "CORR4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "COSAN LOG",
+    "cvm_code": "23485",
+    "tickers": [
+      "RLOG3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "COSAN",
+    "cvm_code": "19836",
+    "tickers": [
+      "CSAN3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "CPFL ENERGIA",
+    "cvm_code": "18660",
+    "tickers": [
+      "CPFE3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "CR2",
+    "cvm_code": "20630",
+    "tickers": [
+      "CRDE3"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "CSU CARDSYST",
+    "cvm_code": "20044",
+    "tickers": [
+      "CARD3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "CTC S.A.",
+    "cvm_code": "23981",
+    "tickers": [
+      "CTCA3"
+    ],
+    "segmento": "MA"
+  },
+  {
+    "nome": "TRAN PAULIST",
+    "cvm_code": "18376",
+    "tickers": [
+      "TRPL3",
+      "TRPL4"
+    ],
+    "segmento": "N1"
+  },
+  {
+    "nome": "CURY S/A",
+    "cvm_code": "25100",
+    "tickers": [
+      "CURY3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "CVC BRASIL",
+    "cvm_code": "23310",
+    "tickers": [
+      "CVCB3",
+      "CVCB11"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "CYRELA REALT",
+    "cvm_code": "14460",
+    "tickers": [
+      "CYRE3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "CYRE COM-CCP",
+    "cvm_code": "21040",
+    "tickers": [
+      "CCPR3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "D1000VFARMA",
+    "cvm_code": "25046",
+    "tickers": [
+      "DMVF3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "DASA",
+    "cvm_code": "19623",
+    "tickers": [
+      "DASA3"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "DIMED",
+    "cvm_code": "9342",
+    "tickers": [
+      "PNVL3",
+      "PNVL4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "DIRECIONAL",
+    "cvm_code": "21350",
+    "tickers": [
+      "DIRR3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "DOHLER",
+    "cvm_code": "5207",
+    "tickers": [
+      "DOHL3",
+      "DOHL4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "DOMMO",
+    "cvm_code": "23493",
+    "tickers": [
+      "DMMO3",
+      "DMMO11"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "DTCOM-DIRECT",
+    "cvm_code": "18597",
+    "tickers": [
+      "DTCY3",
+      "DTCY4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "DURATEX",
+    "cvm_code": "21091",
+    "tickers": [
+      "DTEX3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "ECO SEC AGRO",
+    "cvm_code": "21741",
+    "tickers": [
+      "ECOA-CRA05B0",
+      "ECOA-CRA92B0",
+      "ECOA-CRA93B0",
+      "ECOA-CRA94B0",
+      "ECOA-CRAA4B0"
+    ],
+    "segmento": "MB"
+  },
+  {
+    "nome": "ECORODOVIAS",
+    "cvm_code": "19453",
+    "tickers": [
+      "ECOR3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "ENERGIAS BR",
+    "cvm_code": "19763",
+    "tickers": [
+      "ENBR3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "ACO ALTONA",
+    "cvm_code": "5380",
+    "tickers": [
+      "EALT3",
+      "EALT4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "ELEKTRO",
+    "cvm_code": "17485",
+    "tickers": [
+      "EKTR3",
+      "EKTR4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "ELETROPAR",
+    "cvm_code": "15784",
+    "tickers": [
+      "LIPR3"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "EMAE",
+    "cvm_code": "16993",
+    "tickers": [
+      "EMAE3",
+      "EMAE4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "EMBRAER",
+    "cvm_code": "20087",
+    "tickers": [
+      "EMBR3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "PAGUE MENOS",
+    "cvm_code": "22608",
+    "tickers": [
+      "PGMN3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "ENCORPAR",
+    "cvm_code": "16497",
+    "tickers": [
+      "ECPR3",
+      "ECPR4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "ENAUTA PART",
+    "cvm_code": "22365",
+    "tickers": [
+      "ENAT3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "ENERGISA MT",
+    "cvm_code": "14605",
+    "tickers": [
+      "ENMT3",
+      "ENMT4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "ENERGISA",
+    "cvm_code": "15253",
+    "tickers": [
+      "ENGI11",
+      "ENGI3",
+      "ENGI4",
+      "ENGI12"
+    ],
+    "segmento": "N2"
+  },
+  {
+    "nome": "ENEVA",
+    "cvm_code": "21237",
+    "tickers": [
+      "ENEV3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "ENGIE BRASIL",
+    "cvm_code": "17329",
+    "tickers": [
+      "EGIE3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "ENJOEI",
+    "cvm_code": "25259",
+    "tickers": [
+      "ENJU3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "EQUATORIAL",
+    "cvm_code": "20010",
+    "tickers": [
+      "EQTL3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "EQTLMARANHAO",
+    "cvm_code": "16608",
+    "tickers": [
+      "EQMA3B",
+      "EQMA5B",
+      "EQMA6B"
+    ],
+    "segmento": "MB"
+  },
+  {
+    "nome": "EQTL PARA",
+    "cvm_code": "18309",
+    "tickers": [
+      "EQPA3",
+      "EQPA5",
+      "EQPA6",
+      "EQPA7"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "ETERNIT",
+    "cvm_code": "5762",
+    "tickers": [
+      "ETER3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "EUCATEX",
+    "cvm_code": "5770",
+    "tickers": [
+      "EUCA3",
+      "EUCA4"
+    ],
+    "segmento": "N1"
+  },
+  {
+    "nome": "EVEN",
+    "cvm_code": "20524",
+    "tickers": [
+      "EVEN3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "EXCELSIOR",
+    "cvm_code": "1570",
+    "tickers": [
+      "BAUH3",
+      "BAUH4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "EZTEC",
+    "cvm_code": "20770",
+    "tickers": [
+      "EZTC3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "FER C ATLANT",
+    "cvm_code": "15369",
+    "tickers": [
+      "VSPT3",
+      "VSPT4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "FER HERINGER",
+    "cvm_code": "20621",
+    "tickers": [
+      "FHER3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "ALFA FINANC",
+    "cvm_code": "3891",
+    "tickers": [
+      "CRIV3",
+      "CRIV4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "FINANSINOS",
+    "cvm_code": "6076",
+    "tickers": [
+      "FNCN3"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "FLEURY",
+    "cvm_code": "21881",
+    "tickers": [
+      "FLRY3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "FLEX S/A",
+    "cvm_code": "24350",
+    "tickers": [
+      "FLEX3"
+    ],
+    "segmento": "MA"
+  },
+  {
+    "nome": "FRAS-LE",
+    "cvm_code": "6211",
+    "tickers": [
+      "FRAS3"
+    ],
+    "segmento": "N1"
+  },
+  {
+    "nome": "GAFISA",
+    "cvm_code": "16101",
+    "tickers": [
+      "GFSA3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "GAIA AGRO",
+    "cvm_code": "22764",
+    "tickers": [
+      "GAFL-CRA02B0"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "GAMA PART",
+    "cvm_code": "17965",
+    "tickers": [
+      "OPGM3B"
+    ],
+    "segmento": "MB"
+  },
+  {
+    "nome": "GENERALSHOPP",
+    "cvm_code": "21008",
+    "tickers": [
+      "GSHP3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "GERDAU",
+    "cvm_code": "3980",
+    "tickers": [
+      "GGBR3",
+      "GGBR4"
+    ],
+    "segmento": "N1"
+  },
+  {
+    "nome": "GOL",
+    "cvm_code": "19569",
+    "tickers": [
+      "GOLL4",
+      "GOLL11",
+      "GOLL12"
+    ],
+    "segmento": "N2"
+  },
+  {
+    "nome": "GP INVEST",
+    "cvm_code": "80020",
+    "tickers": [
+      "GPIV33"
+    ],
+    "segmento": "DR3"
+  },
+  {
+    "nome": "GPC PART",
+    "cvm_code": "16632",
+    "tickers": [
+      "GPCP3",
+      "GPCP4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "GRAZZIOTIN",
+    "cvm_code": "4537",
+    "tickers": [
+      "CGRA3",
+      "CGRA4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "GRENDENE",
+    "cvm_code": "19615",
+    "tickers": [
+      "GRND3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "GRUPO SOMA",
+    "cvm_code": "25011",
+    "tickers": [
+      "SOMA3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "GRUPO MATEUS",
+    "cvm_code": "25186",
+    "tickers": [
+      "GMAT3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "CENTAURO",
+    "cvm_code": "24694",
+    "tickers": [
+      "CNTO3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "GUARARAPES",
+    "cvm_code": "4669",
+    "tickers": [
+      "GUAR3"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "HAGA S/A",
+    "cvm_code": "13366",
+    "tickers": [
+      "HAGA3",
+      "HAGA4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "HAPVIDA",
+    "cvm_code": "24392",
+    "tickers": [
+      "HAPV3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "HELBOR",
+    "cvm_code": "20877",
+    "tickers": [
+      "HBOR3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "HERCULES",
+    "cvm_code": "6629",
+    "tickers": [
+      "HETA3",
+      "HETA4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "HIDROVIAS",
+    "cvm_code": "22675",
+    "tickers": [
+      "HBSA3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "HOTEIS OTHON",
+    "cvm_code": "6700",
+    "tickers": [
+      "HOOT3",
+      "HOOT4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "HYPERA",
+    "cvm_code": "21431",
+    "tickers": [
+      "HYPE3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "IGB S/A",
+    "cvm_code": "6815",
+    "tickers": [
+      "IGBR3"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "IGUA SA",
+    "cvm_code": "23175",
+    "tickers": [
+      "IGSN3"
+    ],
+    "segmento": "MA"
+  },
+  {
+    "nome": "IGUATEMI",
+    "cvm_code": "20494",
+    "tickers": [
+      "IGTA3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "J B DUARTE",
+    "cvm_code": "12319",
+    "tickers": [
+      "JBDU3",
+      "JBDU4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "INDS ROMI",
+    "cvm_code": "7510",
+    "tickers": [
+      "ROMI3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "INEPAR",
+    "cvm_code": "7595",
+    "tickers": [
+      "INEP3",
+      "INEP4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "IHPARDINI",
+    "cvm_code": "24090",
+    "tickers": [
+      "PARD3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "INTER SA",
+    "cvm_code": "24279",
+    "tickers": [
+      "INNT3"
+    ],
+    "segmento": "MA"
+  },
+  {
+    "nome": "IMC S/A",
+    "cvm_code": "23574",
+    "tickers": [
+      "MEAL3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "INVEST BEMGE",
+    "cvm_code": "6041",
+    "tickers": [
+      "FIGE3",
+      "FIGE4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "INVEPAR",
+    "cvm_code": "18775",
+    "tickers": [
+      "IVPR3B",
+      "IVPR4B"
+    ],
+    "segmento": "MB"
+  },
+  {
+    "nome": "IOCHP-MAXION",
+    "cvm_code": "11932",
+    "tickers": [
+      "MYPK3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "IRANI",
+    "cvm_code": "2429",
+    "tickers": [
+      "RANI3",
+      "RANI4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "IRBBRASIL RE",
+    "cvm_code": "24180",
+    "tickers": [
+      "IRBR3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "ITAUUNIBANCO",
+    "cvm_code": "19348",
+    "tickers": [
+      "ITUB3",
+      "ITUB4"
+    ],
+    "segmento": "N1"
+  },
+  {
+    "nome": "ITAUSA",
+    "cvm_code": "7617",
+    "tickers": [
+      "ITSA3",
+      "ITSA4"
+    ],
+    "segmento": "N1"
+  },
+  {
+    "nome": "JBS",
+    "cvm_code": "20575",
+    "tickers": [
+      "JBSS3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "JEREISSATI",
+    "cvm_code": "8672",
+    "tickers": [
+      "JPSA3"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "JHSF PART",
+    "cvm_code": "20605",
+    "tickers": [
+      "JHSF3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "JOAO FORTES",
+    "cvm_code": "7811",
+    "tickers": [
+      "JFEN3"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "JOSAPAR",
+    "cvm_code": "13285",
+    "tickers": [
+      "JOPA3",
+      "JOPA4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "JSL",
+    "cvm_code": "22020",
+    "tickers": [
+      "JSLG3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "KARSTEN",
+    "cvm_code": "4146",
+    "tickers": [
+      "CTKA3",
+      "CTKA4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "KEPLER WEBER",
+    "cvm_code": "7870",
+    "tickers": [
+      "KEPL3",
+      "KEPL11"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "KLABIN S/A",
+    "cvm_code": "12653",
+    "tickers": [
+      "KLBN11",
+      "KLBN3",
+      "KLBN4"
+    ],
+    "segmento": "N2"
+  },
+  {
+    "nome": "LAVVI",
+    "cvm_code": "25062",
+    "tickers": [
+      "LAVV3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "LIFEMED",
+    "cvm_code": "24872",
+    "tickers": [
+      "LMED3"
+    ],
+    "segmento": "MA"
+  },
+  {
+    "nome": "LIGHT S/A",
+    "cvm_code": "19879",
+    "tickers": [
+      "LIGT3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "LINX",
+    "cvm_code": "23035",
+    "tickers": [
+      "LINX3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "LITEL",
+    "cvm_code": "15091",
+    "tickers": [
+      "LTEL3B"
+    ],
+    "segmento": "MB"
+  },
+  {
+    "nome": "LITELA",
+    "cvm_code": "24759",
+    "tickers": [
+      "LTLA3B"
+    ],
+    "segmento": "MB"
+  },
+  {
+    "nome": "LOCALIZA",
+    "cvm_code": "19739",
+    "tickers": [
+      "RENT3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "LOCAWEB",
+    "cvm_code": "24910",
+    "tickers": [
+      "LWSA3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "LOG COM PROP",
+    "cvm_code": "23272",
+    "tickers": [
+      "LOGG3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "LOG-IN",
+    "cvm_code": "20710",
+    "tickers": [
+      "LOGN3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "LOJAS AMERIC",
+    "cvm_code": "8087",
+    "tickers": [
+      "LAME3",
+      "LAME4"
+    ],
+    "segmento": "N1"
+  },
+  {
+    "nome": "QUERO-QUERO",
+    "cvm_code": "25038",
+    "tickers": [
+      "LJQQ3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "LOJAS RENNER",
+    "cvm_code": "8133",
+    "tickers": [
+      "LREN3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "LOPES BRASIL",
+    "cvm_code": "20370",
+    "tickers": [
+      "LPSB3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "LUPATECH",
+    "cvm_code": "20060",
+    "tickers": [
+      "LUPA3",
+      "LUPA11"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "M.DIASBRANCO",
+    "cvm_code": "20338",
+    "tickers": [
+      "MDIA3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "MAESTROLOC",
+    "cvm_code": "23612",
+    "tickers": [
+      "MSRO3"
+    ],
+    "segmento": "MA"
+  },
+  {
+    "nome": "MAGAZ LUIZA",
+    "cvm_code": "22470",
+    "tickers": [
+      "MGLU3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "METAL LEVE",
+    "cvm_code": "8575",
+    "tickers": [
+      "LEVE3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "MANGELS INDL",
+    "cvm_code": "8397",
+    "tickers": [
+      "MGEL3",
+      "MGEL4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "ESTRELA",
+    "cvm_code": "8427",
+    "tickers": [
+      "ESTR3",
+      "ESTR4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "MARCOPOLO",
+    "cvm_code": "8451",
+    "tickers": [
+      "POMO3",
+      "POMO4"
+    ],
+    "segmento": "N2"
+  },
+  {
+    "nome": "MARFRIG",
+    "cvm_code": "20788",
+    "tickers": [
+      "MRFG3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "LOJAS MARISA",
+    "cvm_code": "22055",
+    "tickers": [
+      "AMAR3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "MELIUZ",
+    "cvm_code": "25232",
+    "tickers": [
+      "CASH3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "MELNICK",
+    "cvm_code": "25119",
+    "tickers": [
+      "MELK3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "MERC FINANC",
+    "cvm_code": "8540",
+    "tickers": [
+      "MERC3",
+      "MERC4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "METALFRIO",
+    "cvm_code": "20613",
+    "tickers": [
+      "FRIO3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "METAL IGUACU",
+    "cvm_code": "8605",
+    "tickers": [
+      "MTIG3",
+      "MTIG4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "GERDAU MET",
+    "cvm_code": "8656",
+    "tickers": [
+      "GOAU3",
+      "GOAU4"
+    ],
+    "segmento": "N1"
+  },
+  {
+    "nome": "RIOSULENSE",
+    "cvm_code": "13439",
+    "tickers": [
+      "RSUL3",
+      "RSUL4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "METISA",
+    "cvm_code": "8753",
+    "tickers": [
+      "MTSA3",
+      "MTSA4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "MILLS",
+    "cvm_code": "22012",
+    "tickers": [
+      "MILS3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "MINASMAQUINA",
+    "cvm_code": "8818",
+    "tickers": [
+      "MMAQ3",
+      "MMAQ4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "MINERVA",
+    "cvm_code": "20931",
+    "tickers": [
+      "BEEF3",
+      "BEEF11"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "MINUPAR",
+    "cvm_code": "13765",
+    "tickers": [
+      "MNPR3"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "MITRE REALTY",
+    "cvm_code": "24902",
+    "tickers": [
+      "MTRE3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "MMX MINER",
+    "cvm_code": "17914",
+    "tickers": [
+      "MMXM3",
+      "MMXM11"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "MONT ARANHA",
+    "cvm_code": "8893",
+    "tickers": [
+      "MOAR3"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "MOURA DUBEUX",
+    "cvm_code": "21067",
+    "tickers": [
+      "MDNE3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "MOVIDA",
+    "cvm_code": "23825",
+    "tickers": [
+      "MOVI3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "MRS LOGIST",
+    "cvm_code": "17949",
+    "tickers": [
+      "MRSA3B",
+      "MRSA5B",
+      "MRSA6B"
+    ],
+    "segmento": "MB"
+  },
+  {
+    "nome": "MRV",
+    "cvm_code": "20915",
+    "tickers": [
+      "MRVE3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "MULTIPLAN",
+    "cvm_code": "20982",
+    "tickers": [
+      "MULT3"
+    ],
+    "segmento": "N2"
+  },
+  {
+    "nome": "MUNDIAL",
+    "cvm_code": "5312",
+    "tickers": [
+      "MNDL3"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "GRUPO NATURA",
+    "cvm_code": "24783",
+    "tickers": [
+      "NTCO3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "NEOENERGIA",
+    "cvm_code": "15539",
+    "tickers": [
+      "NEOE3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "NORDON MET",
+    "cvm_code": "9083",
+    "tickers": [
+      "NORD3"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "NORTCQUIMICA",
+    "cvm_code": "22985",
+    "tickers": [
+      "NRTQ3"
+    ],
+    "segmento": "MA"
+  },
+  {
+    "nome": "INTERMEDICA",
+    "cvm_code": "24384",
+    "tickers": [
+      "GNDI3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "NUTRIPLANT",
+    "cvm_code": "21334",
+    "tickers": [
+      "NUTR3"
+    ],
+    "segmento": "MA"
+  },
+  {
+    "nome": "ODONTOPREV",
+    "cvm_code": "20125",
+    "tickers": [
+      "ODPV3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "OI",
+    "cvm_code": "11312",
+    "tickers": [
+      "OIBR3",
+      "OIBR4"
+    ],
+    "segmento": "N1"
+  },
+  {
+    "nome": "OMEGA GER",
+    "cvm_code": "23426",
+    "tickers": [
+      "OMGE3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "OPPORT ENERG",
+    "cvm_code": "16942",
+    "tickers": [
+      "OPHE3B"
+    ],
+    "segmento": "MB"
+  },
+  {
+    "nome": "OSX BRASIL",
+    "cvm_code": "21342",
+    "tickers": [
+      "OSXB3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "OUROFINO S/A",
+    "cvm_code": "23507",
+    "tickers": [
+      "OFSA3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "PADTEC",
+    "cvm_code": "18414",
+    "tickers": [
+      "PDTC3"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "PANATLANTICA",
+    "cvm_code": "94",
+    "tickers": [
+      "PATI3",
+      "PATI4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "PARANAPANEMA",
+    "cvm_code": "9393",
+    "tickers": [
+      "PMAM3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "PORTOBELLO",
+    "cvm_code": "13773",
+    "tickers": [
+      "PTBL3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "PDG SECURIT",
+    "cvm_code": "21644",
+    "tickers": [
+      "PDGS-CRI15B0"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "PDG REALT",
+    "cvm_code": "20478",
+    "tickers": [
+      "PDGR3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "PETZ",
+    "cvm_code": "25089",
+    "tickers": [
+      "PETZ3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "PETRORIO",
+    "cvm_code": "22187",
+    "tickers": [
+      "PRIO3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "PETROBRAS BR",
+    "cvm_code": "24295",
+    "tickers": [
+      "BRDT3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "PETROBRAS",
+    "cvm_code": "9512",
+    "tickers": [
+      "PETR3",
+      "PETR4"
+    ],
+    "segmento": "N2"
+  },
+  {
+    "nome": "PETTENATI",
+    "cvm_code": "9539",
+    "tickers": [
+      "PTNT3",
+      "PTNT4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "PLANOEPLANO",
+    "cvm_code": "25070",
+    "tickers": [
+      "PLPL3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "PLASCAR PART",
+    "cvm_code": "13471",
+    "tickers": [
+      "PLAS3",
+      "PLAS11"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "POLO CAP SEC",
+    "cvm_code": "22160",
+    "tickers": [
+      "PLSC-CRI1CB0"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "POLPAR",
+    "cvm_code": "13447",
+    "tickers": [
+      "PPAR3"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "POMIFRUTAS",
+    "cvm_code": "19658",
+    "tickers": [
+      "FRTA3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "PORTO SEGURO",
+    "cvm_code": "16659",
+    "tickers": [
+      "PSSA3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "PORTO VM",
+    "cvm_code": "23523",
+    "tickers": [
+      "PSVM11"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "POSITIVO TEC",
+    "cvm_code": "20362",
+    "tickers": [
+      "POSI3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "PPLA",
+    "cvm_code": "80152",
+    "tickers": [
+      "PPLA11"
+    ],
+    "segmento": "DR3"
+  },
+  {
+    "nome": "PRATICA",
+    "cvm_code": "24546",
+    "tickers": [
+      "PTCA11",
+      "PTCA3"
+    ],
+    "segmento": "M2"
+  },
+  {
+    "nome": "PRINER",
+    "cvm_code": "24236",
+    "tickers": [
+      "PRNR3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "PROMAN",
+    "cvm_code": "19232",
+    "tickers": [
+      "PRMN3B"
+    ],
+    "segmento": "MB"
+  },
+  {
+    "nome": "PROFARMA",
+    "cvm_code": "20346",
+    "tickers": [
+      "PFRM3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "PROMPT PART",
+    "cvm_code": "18333",
+    "tickers": [
+      "PRPT3B"
+    ],
+    "segmento": "MB"
+  },
+  {
+    "nome": "QUALICORP",
+    "cvm_code": "22497",
+    "tickers": [
+      "QUAL3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "QUALITY SOFT",
+    "cvm_code": "23302",
+    "tickers": [
+      "QUSW3"
+    ],
+    "segmento": "MA"
+  },
+  {
+    "nome": "RAIADROGASIL",
+    "cvm_code": "5258",
+    "tickers": [
+      "RADL3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "RANDON PART",
+    "cvm_code": "14109",
+    "tickers": [
+      "RAPT3",
+      "RAPT4"
+    ],
+    "segmento": "N1"
+  },
+  {
+    "nome": "RBCAPITALRES",
+    "cvm_code": "18406",
+    "tickers": [
+      "RBRA-CRA13B0",
+      "RBRA-CRA16B0",
+      "RBRA-CRA19B0",
+      "RBRA-CRA1BB0",
+      "RBRA-CRA1CB0",
+      "RBRA-CRI1XB0",
+      "RBRA-CRI77B0"
+    ],
+    "segmento": "MB"
+  },
+  {
+    "nome": "RECRUSUL",
+    "cvm_code": "12572",
+    "tickers": [
+      "RCSL3",
+      "RCSL4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "REDE ENERGIA",
+    "cvm_code": "3190",
+    "tickers": [
+      "REDE3"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "PET MANGUINH",
+    "cvm_code": "9989",
+    "tickers": [
+      "RPMG3"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "RENOVA",
+    "cvm_code": "21636",
+    "tickers": [
+      "RNEW11",
+      "RNEW3",
+      "RNEW4"
+    ],
+    "segmento": "N2"
+  },
+  {
+    "nome": "LE LIS BLANC",
+    "cvm_code": "21440",
+    "tickers": [
+      "LLIS3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "GER PARANAP",
+    "cvm_code": "18368",
+    "tickers": [
+      "GEPA3",
+      "GEPA4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "RNI",
+    "cvm_code": "20451",
+    "tickers": [
+      "RDNI3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "ROSSI RESID",
+    "cvm_code": "16306",
+    "tickers": [
+      "RSID3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "ALL NORTE",
+    "cvm_code": "15300",
+    "tickers": [
+      "FRRN3B",
+      "FRRN5B",
+      "FRRN6B"
+    ],
+    "segmento": "MB"
+  },
+  {
+    "nome": "RUMO S.A.",
+    "cvm_code": "17450",
+    "tickers": [
+      "RAIL3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "SANSUY",
+    "cvm_code": "12696",
+    "tickers": [
+      "SNSY3",
+      "SNSY5",
+      "SNSY6"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "SANTOS BRP",
+    "cvm_code": "17892",
+    "tickers": [
+      "STBP3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "SAO CARLOS",
+    "cvm_code": "13781",
+    "tickers": [
+      "SCAR3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "SAO MARTINHO",
+    "cvm_code": "20516",
+    "tickers": [
+      "SMTO3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "SPTURIS",
+    "cvm_code": "9415",
+    "tickers": [
+      "AHEB3",
+      "AHEB5",
+      "AHEB6"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "SARAIVA LIVR",
+    "cvm_code": "10472",
+    "tickers": [
+      "SLED3",
+      "SLED4",
+      "SLED11",
+      "SLED12"
+    ],
+    "segmento": "N2"
+  },
+  {
+    "nome": "SCHULZ",
+    "cvm_code": "14664",
+    "tickers": [
+      "SHUL3",
+      "SHUL4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "SEQUOIA LOG",
+    "cvm_code": "25160",
+    "tickers": [
+      "SEQL3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "SER EDUCA",
+    "cvm_code": "23221",
+    "tickers": [
+      "SEER3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "ALIPERTI",
+    "cvm_code": "12823",
+    "tickers": [
+      "APTI3",
+      "APTI4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "SIMPAR",
+    "cvm_code": "25003",
+    "tickers": [
+      "SIMH3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "SINQIA",
+    "cvm_code": "22799",
+    "tickers": [
+      "SQIA3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "SLC AGRICOLA",
+    "cvm_code": "20745",
+    "tickers": [
+      "SLCE3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "SMART FIT",
+    "cvm_code": "24260",
+    "tickers": [
+      "SMFT3"
+    ],
+    "segmento": "M2"
+  },
+  {
+    "nome": "SMILES",
+    "cvm_code": "24252",
+    "tickers": [
+      "SMLS3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "SONDOTECNICA",
+    "cvm_code": "10880",
+    "tickers": [
+      "SOND3",
+      "SOND5",
+      "SOND6"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "SPRINGS",
+    "cvm_code": "20966",
+    "tickers": [
+      "SGPS3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "STARA",
+    "cvm_code": "24201",
+    "tickers": [
+      "STTR3"
+    ],
+    "segmento": "MA"
+  },
+  {
+    "nome": "STATKRAFT",
+    "cvm_code": "22594",
+    "tickers": [
+      "STKF3"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "SUDESTE S/A",
+    "cvm_code": "16586",
+    "tickers": [
+      "OPSE3B"
+    ],
+    "segmento": "MB"
+  },
+  {
+    "nome": "SUL 116 PART",
+    "cvm_code": "16438",
+    "tickers": [
+      "OPTS3B"
+    ],
+    "segmento": "MB"
+  },
+  {
+    "nome": "SUL AMERICA",
+    "cvm_code": "21121",
+    "tickers": [
+      "SULA11",
+      "SULA3",
+      "SULA4"
+    ],
+    "segmento": "N2"
+  },
+  {
+    "nome": "SUZANO HOLD",
+    "cvm_code": "9067",
+    "tickers": [
+      "NEMO3",
+      "NEMO5",
+      "NEMO6"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "SUZANO S.A.",
+    "cvm_code": "13986",
+    "tickers": [
+      "SUZB3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "TIME FOR FUN",
+    "cvm_code": "22454",
+    "tickers": [
+      "SHOW3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "TAURUS ARMAS",
+    "cvm_code": "6173",
+    "tickers": [
+      "TASA3",
+      "TASA4",
+      "TASA13",
+      "TASA15",
+      "TASA17"
+    ],
+    "segmento": "N2"
+  },
+  {
+    "nome": "TECHNOS",
+    "cvm_code": "22519",
+    "tickers": [
+      "TECN3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "TECNISA",
+    "cvm_code": "20435",
+    "tickers": [
+      "TCSA3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "TECNOSOLO",
+    "cvm_code": "11207",
+    "tickers": [
+      "TCNO3",
+      "TCNO4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "TEGMA",
+    "cvm_code": "20800",
+    "tickers": [
+      "TGMA3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "TEKA",
+    "cvm_code": "11223",
+    "tickers": [
+      "TEKA3",
+      "TEKA4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "TEKNO",
+    "cvm_code": "11231",
+    "tickers": [
+      "TKNO3",
+      "TKNO4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "TELEBRAS",
+    "cvm_code": "11258",
+    "tickers": [
+      "TELB3",
+      "TELB4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "TELEF BRASIL",
+    "cvm_code": "17671",
+    "tickers": [
+      "VIVT3"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "MENEZES CORT",
+    "cvm_code": "18538",
+    "tickers": [
+      "MNZC3B"
+    ],
+    "segmento": "MB"
+  },
+  {
+    "nome": "TERRA SANTA",
+    "cvm_code": "20354",
+    "tickers": [
+      "TESA3",
+      "TESA12"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "TEX RENAUX",
+    "cvm_code": "7544",
+    "tickers": [
+      "TXRX3"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "TIM",
+    "cvm_code": "24929",
+    "tickers": [
+      "TIMS3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "TOTVS",
+    "cvm_code": "19992",
+    "tickers": [
+      "TOTS3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "TRIUNFO PART",
+    "cvm_code": "19330",
+    "tickers": [
+      "TPIS3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "TRACK FIELD",
+    "cvm_code": "25208",
+    "tickers": [
+      "TFCO4"
+    ],
+    "segmento": "N2"
+  },
+  {
+    "nome": "TAESA",
+    "cvm_code": "20257",
+    "tickers": [
+      "TAEE11",
+      "TAEE3",
+      "TAEE4"
+    ],
+    "segmento": "N2"
+  },
+  {
+    "nome": "TREVISA",
+    "cvm_code": "8192",
+    "tickers": [
+      "LUXM3",
+      "LUXM4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "TRISUL",
+    "cvm_code": "21130",
+    "tickers": [
+      "TRIS3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "CRISTAL",
+    "cvm_code": "11398",
+    "tickers": [
+      "CRPG3",
+      "CRPG5",
+      "CRPG6"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "TRUESEC",
+    "cvm_code": "22276",
+    "tickers": [
+      "APCS-CRI05B0"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "TUPY",
+    "cvm_code": "6343",
+    "tickers": [
+      "TUPY3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "ULTRAPAR",
+    "cvm_code": "18465",
+    "tickers": [
+      "UGPA3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "UNICASA",
+    "cvm_code": "22780",
+    "tickers": [
+      "UCAS3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "UNIPAR",
+    "cvm_code": "11592",
+    "tickers": [
+      "UNIP3",
+      "UNIP5",
+      "UNIP6"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "UPTICK",
+    "cvm_code": "16624",
+    "tickers": [
+      "UPKP3B"
+    ],
+    "segmento": "MB"
+  },
+  {
+    "nome": "USIMINAS",
+    "cvm_code": "14320",
+    "tickers": [
+      "USIM3",
+      "USIM5",
+      "USIM6"
+    ],
+    "segmento": "N1"
+  },
+  {
+    "nome": "VALE",
+    "cvm_code": "4170",
+    "tickers": [
+      "VALE3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "VALID",
+    "cvm_code": "20028",
+    "tickers": [
+      "VLID3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "VERTCIASEC",
+    "cvm_code": "23990",
+    "tickers": [
+      "VERT-CRAE2B0"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "VIAVAREJO",
+    "cvm_code": "6505",
+    "tickers": [
+      "VVAR3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "VIVARA S.A.",
+    "cvm_code": "24805",
+    "tickers": [
+      "VIVA3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "VIVER",
+    "cvm_code": "20702",
+    "tickers": [
+      "VIVR3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "VULCABRAS",
+    "cvm_code": "11762",
+    "tickers": [
+      "VULC3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "WEG",
+    "cvm_code": "5410",
+    "tickers": [
+      "WEGE3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "WETZEL S/A",
+    "cvm_code": "11991",
+    "tickers": [
+      "MWET3",
+      "MWET4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "WHIRLPOOL",
+    "cvm_code": "14346",
+    "tickers": [
+      "WHRL3",
+      "WHRL4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "WILSON SONS",
+    "cvm_code": "80047",
+    "tickers": [
+      "WSON33"
+    ],
+    "segmento": "DR3"
+  },
+  {
+    "nome": "WIZ S.A.",
+    "cvm_code": "23590",
+    "tickers": [
+      "WIZS3"
+    ],
+    "segmento": "NM"
+  },
+  {
+    "nome": "WLM IND COM",
+    "cvm_code": "11070",
+    "tickers": [
+      "WLMM3",
+      "WLMM4"
+    ],
+    "segmento": ""
+  },
+  {
+    "nome": "YDUQS PART",
+    "cvm_code": "21016",
+    "tickers": [
+      "YDUQ3"
+    ],
+    "segmento": "NM"
+  }
+]

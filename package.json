@@ -1,0 +1,22 @@
+{
+  "name": "STONKS",
+  "version": "1.0.0",
+  "author": "Raphael R. Gusmão",
+  "private": true,
+  "scripts": {
+    "stocks": "node src/main.js stocks",
+    "notes": "node src/main.js notes",
+    "positions": "node src/main.js positions",
+    "prices": "node src/main.js prices",
+    "portfolio": "node src/main.js portfolio",
+    "status": "node src/main.js status",
+    "stonks": "node src/main.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.0",
+    "cheerio": "^1.0.0-rc.3",
+    "csv-writer": "^1.6.0",
+    "pdfjs-dist": "^2.5.207",
+    "puppeteer": "^5.5.0"
+  }
+}

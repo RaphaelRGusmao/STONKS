@@ -1,0 +1,3488 @@
+[
+  {
+    "nome": "3R PETROLEUM",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "RRRP3"
+  },
+  {
+    "nome": "524 PARTICIP",
+    "tipo": "ON",
+    "segmento": "MB",
+    "ticker": "QVQP3B"
+  },
+  {
+    "nome": "ABC BRASIL",
+    "tipo": "PN REC",
+    "segmento": "N2",
+    "ticker": "ABCB10"
+  },
+  {
+    "nome": "ABC BRASIL",
+    "tipo": "PN",
+    "segmento": "N2",
+    "ticker": "ABCB4"
+  },
+  {
+    "nome": "ACO ALTONA",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "EALT4"
+  },
+  {
+    "nome": "ACO ALTONA",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "EALT3"
+  },
+  {
+    "nome": "ADVANCED-DH",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "ADHM3"
+  },
+  {
+    "nome": "AERIS",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "AERI3"
+  },
+  {
+    "nome": "AES TIETE E",
+    "tipo": "UNT",
+    "segmento": "N2",
+    "ticker": "TIET11"
+  },
+  {
+    "nome": "AES TIETE E",
+    "tipo": "PN",
+    "segmento": "N2",
+    "ticker": "TIET4"
+  },
+  {
+    "nome": "AES TIETE E",
+    "tipo": "ON",
+    "segmento": "N2",
+    "ticker": "TIET3"
+  },
+  {
+    "nome": "AFLUENTE T",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "AFLT3"
+  },
+  {
+    "nome": "ALEF S/A",
+    "tipo": "ON",
+    "segmento": "MB",
+    "ticker": "ALEF3B"
+  },
+  {
+    "nome": "ALFA CONSORC",
+    "tipo": "UNT",
+    "segmento": "",
+    "ticker": "BRGE11"
+  },
+  {
+    "nome": "ALFA CONSORC",
+    "tipo": "PND",
+    "segmento": "",
+    "ticker": "BRGE8"
+  },
+  {
+    "nome": "ALFA CONSORC",
+    "tipo": "PNC",
+    "segmento": "",
+    "ticker": "BRGE7"
+  },
+  {
+    "nome": "ALFA CONSORC",
+    "tipo": "PNB",
+    "segmento": "",
+    "ticker": "BRGE6"
+  },
+  {
+    "nome": "ALFA CONSORC",
+    "tipo": "PNA",
+    "segmento": "",
+    "ticker": "BRGE5"
+  },
+  {
+    "nome": "ALFA CONSORC",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "BRGE3"
+  },
+  {
+    "nome": "ALFA CONSORC",
+    "tipo": "",
+    "segmento": "",
+    "ticker": "BRGE12"
+  },
+  {
+    "nome": "ALFA FINANC",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "CRIV4"
+  },
+  {
+    "nome": "ALFA FINANC",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "CRIV3"
+  },
+  {
+    "nome": "ALFA HOLDING",
+    "tipo": "PNB",
+    "segmento": "",
+    "ticker": "RPAD6"
+  },
+  {
+    "nome": "ALFA HOLDING",
+    "tipo": "PNA",
+    "segmento": "",
+    "ticker": "RPAD5"
+  },
+  {
+    "nome": "ALFA HOLDING",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "RPAD3"
+  },
+  {
+    "nome": "ALFA INVEST",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "BRIV4"
+  },
+  {
+    "nome": "ALFA INVEST",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "BRIV3"
+  },
+  {
+    "nome": "ALIANSCSONAE",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "ALSO3"
+  },
+  {
+    "nome": "ALIPERTI",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "APTI4"
+  },
+  {
+    "nome": "ALIPERTI",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "APTI3"
+  },
+  {
+    "nome": "ALL NORTE",
+    "tipo": "PNB",
+    "segmento": "MB",
+    "ticker": "FRRN6B"
+  },
+  {
+    "nome": "ALL NORTE",
+    "tipo": "PNA",
+    "segmento": "MB",
+    "ticker": "FRRN5B"
+  },
+  {
+    "nome": "ALL NORTE",
+    "tipo": "ON",
+    "segmento": "MB",
+    "ticker": "FRRN3B"
+  },
+  {
+    "nome": "ALLIAR",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "AALR3"
+  },
+  {
+    "nome": "ALPARGATAS",
+    "tipo": "PN",
+    "segmento": "N1",
+    "ticker": "ALPA4"
+  },
+  {
+    "nome": "ALPARGATAS",
+    "tipo": "ON",
+    "segmento": "N1",
+    "ticker": "ALPA3"
+  },
+  {
+    "nome": "ALPER S.A.",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "APER3"
+  },
+  {
+    "nome": "ALUPAR",
+    "tipo": "UNT",
+    "segmento": "N2",
+    "ticker": "ALUP11"
+  },
+  {
+    "nome": "ALUPAR",
+    "tipo": "PN",
+    "segmento": "N2",
+    "ticker": "ALUP4"
+  },
+  {
+    "nome": "ALUPAR",
+    "tipo": "ON",
+    "segmento": "N2",
+    "ticker": "ALUP3"
+  },
+  {
+    "nome": "AMAZONIA",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "BAZA3"
+  },
+  {
+    "nome": "AMBEV S/A",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "ABEV3"
+  },
+  {
+    "nome": "AMBIPAR",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "AMBP3"
+  },
+  {
+    "nome": "AMPLA ENERG",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "CBEE3"
+  },
+  {
+    "nome": "ANIMA",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "ANIM3"
+  },
+  {
+    "nome": "AREZZO CO",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "ARZZ3"
+  },
+  {
+    "nome": "ATMASA",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "ATMP3"
+  },
+  {
+    "nome": "ATOMPAR",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "ATOM3"
+  },
+  {
+    "nome": "AURA 360",
+    "tipo": "",
+    "segmento": "DR3",
+    "ticker": "AURA33"
+  },
+  {
+    "nome": "AZEVEDO",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "AZEV4"
+  },
+  {
+    "nome": "AZEVEDO",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "AZEV3"
+  },
+  {
+    "nome": "AZUL",
+    "tipo": "PN",
+    "segmento": "N2",
+    "ticker": "AZUL4"
+  },
+  {
+    "nome": "B2W DIGITAL",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "BTOW3"
+  },
+  {
+    "nome": "B3",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "B3SA3"
+  },
+  {
+    "nome": "BAHEMA",
+    "tipo": "ON",
+    "segmento": "MA",
+    "ticker": "BAHI3"
+  },
+  {
+    "nome": "BANCO BMG",
+    "tipo": "PN",
+    "segmento": "N1",
+    "ticker": "BMGB4"
+  },
+  {
+    "nome": "BANCO INTER",
+    "tipo": "UNT",
+    "segmento": "N2",
+    "ticker": "BIDI11"
+  },
+  {
+    "nome": "BANCO INTER",
+    "tipo": "PN",
+    "segmento": "N2",
+    "ticker": "BIDI4"
+  },
+  {
+    "nome": "BANCO INTER",
+    "tipo": "ON",
+    "segmento": "N2",
+    "ticker": "BIDI3"
+  },
+  {
+    "nome": "BANCO PAN",
+    "tipo": "PN",
+    "segmento": "N1",
+    "ticker": "BPAN4"
+  },
+  {
+    "nome": "BANESE",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "BGIP4"
+  },
+  {
+    "nome": "BANESE",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "BGIP3"
+  },
+  {
+    "nome": "BANESTES",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "BEES4"
+  },
+  {
+    "nome": "BANESTES",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "BEES3"
+  },
+  {
+    "nome": "BANPARA",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "BPAR3"
+  },
+  {
+    "nome": "BANRISUL",
+    "tipo": "PNB",
+    "segmento": "N1",
+    "ticker": "BRSR6"
+  },
+  {
+    "nome": "BANRISUL",
+    "tipo": "PNA",
+    "segmento": "N1",
+    "ticker": "BRSR5"
+  },
+  {
+    "nome": "BANRISUL",
+    "tipo": "ON",
+    "segmento": "N1",
+    "ticker": "BRSR3"
+  },
+  {
+    "nome": "BARDELLA",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "BDLL4"
+  },
+  {
+    "nome": "BARDELLA",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "BDLL3"
+  },
+  {
+    "nome": "BATTISTELLA",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "BTTL3"
+  },
+  {
+    "nome": "BAUMER",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "BALM4"
+  },
+  {
+    "nome": "BAUMER",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "BALM3"
+  },
+  {
+    "nome": "BBMLOGISTICA",
+    "tipo": "ON",
+    "segmento": "MA",
+    "ticker": "BBML3"
+  },
+  {
+    "nome": "BBSEGURIDADE",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "BBSE3"
+  },
+  {
+    "nome": "BETAPART",
+    "tipo": "ON",
+    "segmento": "MB",
+    "ticker": "BETP3B"
+  },
+  {
+    "nome": "BIC MONARK",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "BMKS3"
+  },
+  {
+    "nome": "BIOMM",
+    "tipo": "ON",
+    "segmento": "MA",
+    "ticker": "BIOM3"
+  },
+  {
+    "nome": "BIOSEV",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "BSEV3"
+  },
+  {
+    "nome": "BK BRASIL",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "BKBR3"
+  },
+  {
+    "nome": "BOA VISTA",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "BOAS3"
+  },
+  {
+    "nome": "BOMBRIL",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "BOBR4"
+  },
+  {
+    "nome": "BOMBRIL",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "BOBR3"
+  },
+  {
+    "nome": "BR BROKERS",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "BBRK3"
+  },
+  {
+    "nome": "BR MALLS PAR",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "BRML3"
+  },
+  {
+    "nome": "BR PROPERT",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "BRPR3"
+  },
+  {
+    "nome": "BRADESCO",
+    "tipo": "PN",
+    "segmento": "N1",
+    "ticker": "BBDC4"
+  },
+  {
+    "nome": "BRADESCO",
+    "tipo": "ON",
+    "segmento": "N1",
+    "ticker": "BBDC3"
+  },
+  {
+    "nome": "BRADESPAR",
+    "tipo": "PN",
+    "segmento": "N1",
+    "ticker": "BRAP4"
+  },
+  {
+    "nome": "BRADESPAR",
+    "tipo": "ON",
+    "segmento": "N1",
+    "ticker": "BRAP3"
+  },
+  {
+    "nome": "BRASIL",
+    "tipo": "UNT",
+    "segmento": "NM",
+    "ticker": "BBAS11"
+  },
+  {
+    "nome": "BRASIL",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "BBAS3"
+  },
+  {
+    "nome": "BRASIL",
+    "tipo": "",
+    "segmento": "NM",
+    "ticker": "BBAS12"
+  },
+  {
+    "nome": "BRASILAGRO",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "AGRO3"
+  },
+  {
+    "nome": "BRASKEM",
+    "tipo": "PNB",
+    "segmento": "N1",
+    "ticker": "BRKM6"
+  },
+  {
+    "nome": "BRASKEM",
+    "tipo": "PNA",
+    "segmento": "N1",
+    "ticker": "BRKM5"
+  },
+  {
+    "nome": "BRASKEM",
+    "tipo": "ON",
+    "segmento": "N1",
+    "ticker": "BRKM3"
+  },
+  {
+    "nome": "BRAZILIAN SC",
+    "tipo": "",
+    "segmento": "",
+    "ticker": "BSCS-CRIT2B0"
+  },
+  {
+    "nome": "BRAZILIAN SC",
+    "tipo": "",
+    "segmento": "",
+    "ticker": "BSCS-CRIT3B0"
+  },
+  {
+    "nome": "BRB BANCO",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "BSLI4"
+  },
+  {
+    "nome": "BRB BANCO",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "BSLI3"
+  },
+  {
+    "nome": "BRF SA",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "BRFS3"
+  },
+  {
+    "nome": "BRPR 56 SEC",
+    "tipo": "",
+    "segmento": "",
+    "ticker": "WTVR-CRI11B0"
+  },
+  {
+    "nome": "BRQ",
+    "tipo": "ON",
+    "segmento": "MA",
+    "ticker": "BRQB3"
+  },
+  {
+    "nome": "BTGP BANCO",
+    "tipo": "UNT",
+    "segmento": "N2",
+    "ticker": "BPAC11"
+  },
+  {
+    "nome": "BTGP BANCO",
+    "tipo": "PNA",
+    "segmento": "N2",
+    "ticker": "BPAC5"
+  },
+  {
+    "nome": "BTGP BANCO",
+    "tipo": "ON",
+    "segmento": "N2",
+    "ticker": "BPAC3"
+  },
+  {
+    "nome": "CABINDA PART",
+    "tipo": "ON",
+    "segmento": "MB",
+    "ticker": "CABI3B"
+  },
+  {
+    "nome": "CACONDE PART",
+    "tipo": "ON",
+    "segmento": "MB",
+    "ticker": "CACO3B"
+  },
+  {
+    "nome": "CAMBUCI",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "CAMB3"
+  },
+  {
+    "nome": "CAMIL",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "CAML3"
+  },
+  {
+    "nome": "CARREFOUR BR",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "CRFB3"
+  },
+  {
+    "nome": "CASAN",
+    "tipo": "PN DIR",
+    "segmento": "",
+    "ticker": "CASN2"
+  },
+  {
+    "nome": "CASAN",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "CASN4"
+  },
+  {
+    "nome": "CASAN",
+    "tipo": "ON DIR",
+    "segmento": "",
+    "ticker": "CASN1"
+  },
+  {
+    "nome": "CASAN",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "CASN3"
+  },
+  {
+    "nome": "CCR SA",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "CCRO3"
+  },
+  {
+    "nome": "CEA MODAS",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "CEAB3"
+  },
+  {
+    "nome": "CEB",
+    "tipo": "PNB",
+    "segmento": "",
+    "ticker": "CEBR6"
+  },
+  {
+    "nome": "CEB",
+    "tipo": "PNA",
+    "segmento": "",
+    "ticker": "CEBR5"
+  },
+  {
+    "nome": "CEB",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "CEBR3"
+  },
+  {
+    "nome": "CEDRO",
+    "tipo": "PN",
+    "segmento": "N1",
+    "ticker": "CEDO4"
+  },
+  {
+    "nome": "CEDRO",
+    "tipo": "ON",
+    "segmento": "N1",
+    "ticker": "CEDO3"
+  },
+  {
+    "nome": "CEEE-D",
+    "tipo": "PN",
+    "segmento": "N1",
+    "ticker": "CEED4"
+  },
+  {
+    "nome": "CEEE-D",
+    "tipo": "ON",
+    "segmento": "N1",
+    "ticker": "CEED3"
+  },
+  {
+    "nome": "CEEE-GT",
+    "tipo": "PN",
+    "segmento": "N1",
+    "ticker": "EEEL4"
+  },
+  {
+    "nome": "CEEE-GT",
+    "tipo": "ON",
+    "segmento": "N1",
+    "ticker": "EEEL3"
+  },
+  {
+    "nome": "CEG",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "CEGR3"
+  },
+  {
+    "nome": "CELESC",
+    "tipo": "PN",
+    "segmento": "N2",
+    "ticker": "CLSC4"
+  },
+  {
+    "nome": "CELESC",
+    "tipo": "ON",
+    "segmento": "N2",
+    "ticker": "CLSC3"
+  },
+  {
+    "nome": "CELGPAR",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "GPAR3"
+  },
+  {
+    "nome": "CELPE",
+    "tipo": "PNB",
+    "segmento": "",
+    "ticker": "CEPE6"
+  },
+  {
+    "nome": "CELPE",
+    "tipo": "PNA",
+    "segmento": "",
+    "ticker": "CEPE5"
+  },
+  {
+    "nome": "CELPE",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "CEPE3"
+  },
+  {
+    "nome": "CEMEPE",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "MAPT4"
+  },
+  {
+    "nome": "CEMEPE",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "MAPT3"
+  },
+  {
+    "nome": "CEMIG",
+    "tipo": "PN",
+    "segmento": "N1",
+    "ticker": "CMIG4"
+  },
+  {
+    "nome": "CEMIG",
+    "tipo": "ON",
+    "segmento": "N1",
+    "ticker": "CMIG3"
+  },
+  {
+    "nome": "CENTAURO",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "CNTO3"
+  },
+  {
+    "nome": "CESP",
+    "tipo": "PNB",
+    "segmento": "N1",
+    "ticker": "CESP6"
+  },
+  {
+    "nome": "CESP",
+    "tipo": "PNA",
+    "segmento": "N1",
+    "ticker": "CESP5"
+  },
+  {
+    "nome": "CESP",
+    "tipo": "ON",
+    "segmento": "N1",
+    "ticker": "CESP3"
+  },
+  {
+    "nome": "CIA HERING",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "HGTX3"
+  },
+  {
+    "nome": "CIBRASEC",
+    "tipo": "",
+    "segmento": "",
+    "ticker": "CBSC-CRA19B0"
+  },
+  {
+    "nome": "CIBRASEC",
+    "tipo": "",
+    "segmento": "",
+    "ticker": "CBSC-CRA1BB0"
+  },
+  {
+    "nome": "CIELO",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "CIEL3"
+  },
+  {
+    "nome": "CIMS",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "CMSA4"
+  },
+  {
+    "nome": "CIMS",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "CMSA3"
+  },
+  {
+    "nome": "CINESYSTEM",
+    "tipo": "ON",
+    "segmento": "MA",
+    "ticker": "CNSY3"
+  },
+  {
+    "nome": "COELBA",
+    "tipo": "PNB",
+    "segmento": "",
+    "ticker": "CEEB6"
+  },
+  {
+    "nome": "COELBA",
+    "tipo": "PNA",
+    "segmento": "",
+    "ticker": "CEEB5"
+  },
+  {
+    "nome": "COELBA",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "CEEB3"
+  },
+  {
+    "nome": "COELCE",
+    "tipo": "PNB",
+    "segmento": "",
+    "ticker": "COCE6"
+  },
+  {
+    "nome": "COELCE",
+    "tipo": "PNA",
+    "segmento": "",
+    "ticker": "COCE5"
+  },
+  {
+    "nome": "COELCE",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "COCE3"
+  },
+  {
+    "nome": "COGNA ON",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "COGN3"
+  },
+  {
+    "nome": "COMGAS",
+    "tipo": "PNA",
+    "segmento": "",
+    "ticker": "CGAS5"
+  },
+  {
+    "nome": "COMGAS",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "CGAS3"
+  },
+  {
+    "nome": "CONC RIO TER",
+    "tipo": "PNA",
+    "segmento": "MB",
+    "ticker": "CRTE5B"
+  },
+  {
+    "nome": "CONC RIO TER",
+    "tipo": "ON",
+    "segmento": "MB",
+    "ticker": "CRTE3B"
+  },
+  {
+    "nome": "CONST A LIND",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "CALI4"
+  },
+  {
+    "nome": "CONST A LIND",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "CALI3"
+  },
+  {
+    "nome": "COPASA",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "CSMG3"
+  },
+  {
+    "nome": "COPEL",
+    "tipo": "PNB",
+    "segmento": "N1",
+    "ticker": "CPLE6"
+  },
+  {
+    "nome": "COPEL",
+    "tipo": "PNA",
+    "segmento": "N1",
+    "ticker": "CPLE5"
+  },
+  {
+    "nome": "COPEL",
+    "tipo": "ON",
+    "segmento": "N1",
+    "ticker": "CPLE3"
+  },
+  {
+    "nome": "COR RIBEIRO",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "CORR4"
+  },
+  {
+    "nome": "COR RIBEIRO",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "CORR3"
+  },
+  {
+    "nome": "COSAN",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "CSAN3"
+  },
+  {
+    "nome": "COSAN LOG",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "RLOG3"
+  },
+  {
+    "nome": "COSERN",
+    "tipo": "PNB",
+    "segmento": "",
+    "ticker": "CSRN6"
+  },
+  {
+    "nome": "COSERN",
+    "tipo": "PNA",
+    "segmento": "",
+    "ticker": "CSRN5"
+  },
+  {
+    "nome": "COSERN",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "CSRN3"
+  },
+  {
+    "nome": "COTEMINAS",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "CTNM4"
+  },
+  {
+    "nome": "COTEMINAS",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "CTNM3"
+  },
+  {
+    "nome": "CPFL ENERGIA",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "CPFE3"
+  },
+  {
+    "nome": "CR2",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "CRDE3"
+  },
+  {
+    "nome": "CRISTAL",
+    "tipo": "PNB",
+    "segmento": "",
+    "ticker": "CRPG6"
+  },
+  {
+    "nome": "CRISTAL",
+    "tipo": "PNA",
+    "segmento": "",
+    "ticker": "CRPG5"
+  },
+  {
+    "nome": "CRISTAL",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "CRPG3"
+  },
+  {
+    "nome": "CSU CARDSYST",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "CARD3"
+  },
+  {
+    "nome": "CTC S.A.",
+    "tipo": "ON",
+    "segmento": "MA",
+    "ticker": "CTCA3"
+  },
+  {
+    "nome": "CURY S/A",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "CURY3"
+  },
+  {
+    "nome": "CVC BRASIL",
+    "tipo": "UNT",
+    "segmento": "NM",
+    "ticker": "CVCB11"
+  },
+  {
+    "nome": "CVC BRASIL",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "CVCB3"
+  },
+  {
+    "nome": "CYRE COM-CCP",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "CCPR3"
+  },
+  {
+    "nome": "CYRELA REALT",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "CYRE3"
+  },
+  {
+    "nome": "D1000VFARMA",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "DMVF3"
+  },
+  {
+    "nome": "DASA",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "DASA3"
+  },
+  {
+    "nome": "DIMED",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "PNVL4"
+  },
+  {
+    "nome": "DIMED",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "PNVL3"
+  },
+  {
+    "nome": "DIRECIONAL",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "DIRR3"
+  },
+  {
+    "nome": "DOHLER",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "DOHL4"
+  },
+  {
+    "nome": "DOHLER",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "DOHL3"
+  },
+  {
+    "nome": "DOMMO",
+    "tipo": "UNT",
+    "segmento": "",
+    "ticker": "DMMO11"
+  },
+  {
+    "nome": "DOMMO",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "DMMO3"
+  },
+  {
+    "nome": "DTCOM-DIRECT",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "DTCY4"
+  },
+  {
+    "nome": "DTCOM-DIRECT",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "DTCY3"
+  },
+  {
+    "nome": "DURATEX",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "DTEX3"
+  },
+  {
+    "nome": "ECO SEC AGRO",
+    "tipo": "",
+    "segmento": "MB",
+    "ticker": "ECOA-CRA05B0"
+  },
+  {
+    "nome": "ECO SEC AGRO",
+    "tipo": "",
+    "segmento": "MB",
+    "ticker": "ECOA-CRA92B0"
+  },
+  {
+    "nome": "ECO SEC AGRO",
+    "tipo": "",
+    "segmento": "MB",
+    "ticker": "ECOA-CRA93B0"
+  },
+  {
+    "nome": "ECO SEC AGRO",
+    "tipo": "",
+    "segmento": "MB",
+    "ticker": "ECOA-CRA94B0"
+  },
+  {
+    "nome": "ECO SEC AGRO",
+    "tipo": "",
+    "segmento": "MB",
+    "ticker": "ECOA-CRAA4B0"
+  },
+  {
+    "nome": "ECORODOVIAS",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "ECOR3"
+  },
+  {
+    "nome": "ELEKTRO",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "EKTR4"
+  },
+  {
+    "nome": "ELEKTRO",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "EKTR3"
+  },
+  {
+    "nome": "ELETROBRAS",
+    "tipo": "PNB",
+    "segmento": "N1",
+    "ticker": "ELET6"
+  },
+  {
+    "nome": "ELETROBRAS",
+    "tipo": "PNA",
+    "segmento": "N1",
+    "ticker": "ELET5"
+  },
+  {
+    "nome": "ELETROBRAS",
+    "tipo": "ON",
+    "segmento": "N1",
+    "ticker": "ELET3"
+  },
+  {
+    "nome": "ELETROPAR",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "LIPR3"
+  },
+  {
+    "nome": "EMAE",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "EMAE4"
+  },
+  {
+    "nome": "EMAE",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "EMAE3"
+  },
+  {
+    "nome": "EMBRAER",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "EMBR3"
+  },
+  {
+    "nome": "ENAUTA PART",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "ENAT3"
+  },
+  {
+    "nome": "ENCORPAR",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "ECPR4"
+  },
+  {
+    "nome": "ENCORPAR",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "ECPR3"
+  },
+  {
+    "nome": "ENERGIAS BR",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "ENBR3"
+  },
+  {
+    "nome": "ENERGISA",
+    "tipo": "UNT",
+    "segmento": "N2",
+    "ticker": "ENGI11"
+  },
+  {
+    "nome": "ENERGISA",
+    "tipo": "PN",
+    "segmento": "N2",
+    "ticker": "ENGI4"
+  },
+  {
+    "nome": "ENERGISA",
+    "tipo": "ON",
+    "segmento": "N2",
+    "ticker": "ENGI3"
+  },
+  {
+    "nome": "ENERGISA",
+    "tipo": "",
+    "segmento": "N2",
+    "ticker": "ENGI12"
+  },
+  {
+    "nome": "ENERGISA MT",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "ENMT4"
+  },
+  {
+    "nome": "ENERGISA MT",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "ENMT3"
+  },
+  {
+    "nome": "ENEVA",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "ENEV3"
+  },
+  {
+    "nome": "ENGIE BRASIL",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "EGIE3"
+  },
+  {
+    "nome": "ENJOEI",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "ENJU3"
+  },
+  {
+    "nome": "EQTL PARA",
+    "tipo": "PNC",
+    "segmento": "",
+    "ticker": "EQPA7"
+  },
+  {
+    "nome": "EQTL PARA",
+    "tipo": "PNB",
+    "segmento": "",
+    "ticker": "EQPA6"
+  },
+  {
+    "nome": "EQTL PARA",
+    "tipo": "PNA",
+    "segmento": "",
+    "ticker": "EQPA5"
+  },
+  {
+    "nome": "EQTL PARA",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "EQPA3"
+  },
+  {
+    "nome": "EQTLMARANHAO",
+    "tipo": "PNB",
+    "segmento": "MB",
+    "ticker": "EQMA6B"
+  },
+  {
+    "nome": "EQTLMARANHAO",
+    "tipo": "PNA",
+    "segmento": "MB",
+    "ticker": "EQMA5B"
+  },
+  {
+    "nome": "EQTLMARANHAO",
+    "tipo": "ON",
+    "segmento": "MB",
+    "ticker": "EQMA3B"
+  },
+  {
+    "nome": "EQUATORIAL",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "EQTL3"
+  },
+  {
+    "nome": "ESTAPAR",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "ALPK3"
+  },
+  {
+    "nome": "ESTRELA",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "ESTR4"
+  },
+  {
+    "nome": "ESTRELA",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "ESTR3"
+  },
+  {
+    "nome": "ETERNIT",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "ETER3"
+  },
+  {
+    "nome": "EUCATEX",
+    "tipo": "PN",
+    "segmento": "N1",
+    "ticker": "EUCA4"
+  },
+  {
+    "nome": "EUCATEX",
+    "tipo": "ON",
+    "segmento": "N1",
+    "ticker": "EUCA3"
+  },
+  {
+    "nome": "EVEN",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "EVEN3"
+  },
+  {
+    "nome": "EXCELSIOR",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "BAUH4"
+  },
+  {
+    "nome": "EXCELSIOR",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "BAUH3"
+  },
+  {
+    "nome": "EZTEC",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "EZTC3"
+  },
+  {
+    "nome": "FER C ATLANT",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "VSPT4"
+  },
+  {
+    "nome": "FER C ATLANT",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "VSPT3"
+  },
+  {
+    "nome": "FER HERINGER",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "FHER3"
+  },
+  {
+    "nome": "FERBASA",
+    "tipo": "PN",
+    "segmento": "N1",
+    "ticker": "FESA4"
+  },
+  {
+    "nome": "FERBASA",
+    "tipo": "ON",
+    "segmento": "N1",
+    "ticker": "FESA3"
+  },
+  {
+    "nome": "FINANSINOS",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "FNCN3"
+  },
+  {
+    "nome": "FLEURY",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "FLRY3"
+  },
+  {
+    "nome": "FLEX S/A",
+    "tipo": "ON",
+    "segmento": "MA",
+    "ticker": "FLEX3"
+  },
+  {
+    "nome": "FRAS-LE",
+    "tipo": "ON",
+    "segmento": "N1",
+    "ticker": "FRAS3"
+  },
+  {
+    "nome": "GAFISA",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "GFSA3"
+  },
+  {
+    "nome": "GAIA AGRO",
+    "tipo": "",
+    "segmento": "",
+    "ticker": "GAFL-CRA02B0"
+  },
+  {
+    "nome": "GAMA PART",
+    "tipo": "ON",
+    "segmento": "MB",
+    "ticker": "OPGM3B"
+  },
+  {
+    "nome": "GENERALSHOPP",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "GSHP3"
+  },
+  {
+    "nome": "GER PARANAP",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "GEPA4"
+  },
+  {
+    "nome": "GER PARANAP",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "GEPA3"
+  },
+  {
+    "nome": "GERDAU",
+    "tipo": "PN",
+    "segmento": "N1",
+    "ticker": "GGBR4"
+  },
+  {
+    "nome": "GERDAU",
+    "tipo": "ON",
+    "segmento": "N1",
+    "ticker": "GGBR3"
+  },
+  {
+    "nome": "GERDAU MET",
+    "tipo": "PN",
+    "segmento": "N1",
+    "ticker": "GOAU4"
+  },
+  {
+    "nome": "GERDAU MET",
+    "tipo": "ON",
+    "segmento": "N1",
+    "ticker": "GOAU3"
+  },
+  {
+    "nome": "GOL",
+    "tipo": "UNT",
+    "segmento": "N2",
+    "ticker": "GOLL11"
+  },
+  {
+    "nome": "GOL",
+    "tipo": "PN",
+    "segmento": "N2",
+    "ticker": "GOLL4"
+  },
+  {
+    "nome": "GOL",
+    "tipo": "",
+    "segmento": "N2",
+    "ticker": "GOLL12"
+  },
+  {
+    "nome": "GP INVEST",
+    "tipo": "",
+    "segmento": "DR3",
+    "ticker": "GPIV33"
+  },
+  {
+    "nome": "GPC PART",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "GPCP4"
+  },
+  {
+    "nome": "GPC PART",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "GPCP3"
+  },
+  {
+    "nome": "GRAZZIOTIN",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "CGRA4"
+  },
+  {
+    "nome": "GRAZZIOTIN",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "CGRA3"
+  },
+  {
+    "nome": "GRENDENE",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "GRND3"
+  },
+  {
+    "nome": "GRUPO MATEUS",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "GMAT3"
+  },
+  {
+    "nome": "GRUPO NATURA",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "NTCO3"
+  },
+  {
+    "nome": "GRUPO SOMA",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "SOMA3"
+  },
+  {
+    "nome": "GUARARAPES",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "GUAR3"
+  },
+  {
+    "nome": "HABITASUL",
+    "tipo": "PNB",
+    "segmento": "",
+    "ticker": "HBTS6"
+  },
+  {
+    "nome": "HABITASUL",
+    "tipo": "PNA",
+    "segmento": "",
+    "ticker": "HBTS5"
+  },
+  {
+    "nome": "HABITASUL",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "HBTS3"
+  },
+  {
+    "nome": "HAGA S/A",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "HAGA4"
+  },
+  {
+    "nome": "HAGA S/A",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "HAGA3"
+  },
+  {
+    "nome": "HAPVIDA",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "HAPV3"
+  },
+  {
+    "nome": "HELBOR",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "HBOR3"
+  },
+  {
+    "nome": "HERCULES",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "HETA4"
+  },
+  {
+    "nome": "HERCULES",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "HETA3"
+  },
+  {
+    "nome": "HIDROVIAS",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "HBSA3"
+  },
+  {
+    "nome": "HOTEIS OTHON",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "HOOT4"
+  },
+  {
+    "nome": "HOTEIS OTHON",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "HOOT3"
+  },
+  {
+    "nome": "HYPERA",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "HYPE3"
+  },
+  {
+    "nome": "IGB S/A",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "IGBR3"
+  },
+  {
+    "nome": "IGUA SA",
+    "tipo": "ON",
+    "segmento": "MA",
+    "ticker": "IGSN3"
+  },
+  {
+    "nome": "IGUATEMI",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "IGTA3"
+  },
+  {
+    "nome": "IHPARDINI",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "PARD3"
+  },
+  {
+    "nome": "IMC S/A",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "MEAL3"
+  },
+  {
+    "nome": "IND CATAGUAS",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "CATA4"
+  },
+  {
+    "nome": "IND CATAGUAS",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "CATA3"
+  },
+  {
+    "nome": "INDS ROMI",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "ROMI3"
+  },
+  {
+    "nome": "INDUSVAL",
+    "tipo": "PN",
+    "segmento": "N2",
+    "ticker": "IDVL4"
+  },
+  {
+    "nome": "INDUSVAL",
+    "tipo": "ON",
+    "segmento": "N2",
+    "ticker": "IDVL3"
+  },
+  {
+    "nome": "INEPAR",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "INEP4"
+  },
+  {
+    "nome": "INEPAR",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "INEP3"
+  },
+  {
+    "nome": "INTER SA",
+    "tipo": "ON",
+    "segmento": "MA",
+    "ticker": "INNT3"
+  },
+  {
+    "nome": "INTERMEDICA",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "GNDI3"
+  },
+  {
+    "nome": "INVEPAR",
+    "tipo": "PN",
+    "segmento": "MB",
+    "ticker": "IVPR4B"
+  },
+  {
+    "nome": "INVEPAR",
+    "tipo": "ON",
+    "segmento": "MB",
+    "ticker": "IVPR3B"
+  },
+  {
+    "nome": "INVEST BEMGE",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "FIGE4"
+  },
+  {
+    "nome": "INVEST BEMGE",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "FIGE3"
+  },
+  {
+    "nome": "IOCHP-MAXION",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "MYPK3"
+  },
+  {
+    "nome": "IRANI",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "RANI4"
+  },
+  {
+    "nome": "IRANI",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "RANI3"
+  },
+  {
+    "nome": "IRBBRASIL RE",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "IRBR3"
+  },
+  {
+    "nome": "ITAUSA",
+    "tipo": "PN",
+    "segmento": "N1",
+    "ticker": "ITSA4"
+  },
+  {
+    "nome": "ITAUSA",
+    "tipo": "ON",
+    "segmento": "N1",
+    "ticker": "ITSA3"
+  },
+  {
+    "nome": "ITAUUNIBANCO",
+    "tipo": "PN",
+    "segmento": "N1",
+    "ticker": "ITUB4"
+  },
+  {
+    "nome": "ITAUUNIBANCO",
+    "tipo": "ON",
+    "segmento": "N1",
+    "ticker": "ITUB3"
+  },
+  {
+    "nome": "J B DUARTE",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "JBDU4"
+  },
+  {
+    "nome": "J B DUARTE",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "JBDU3"
+  },
+  {
+    "nome": "JBS",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "JBSS3"
+  },
+  {
+    "nome": "JEREISSATI",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "JPSA3"
+  },
+  {
+    "nome": "JHSF PART",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "JHSF3"
+  },
+  {
+    "nome": "JOAO FORTES",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "JFEN3"
+  },
+  {
+    "nome": "JOSAPAR",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "JOPA4"
+  },
+  {
+    "nome": "JOSAPAR",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "JOPA3"
+  },
+  {
+    "nome": "JSL",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "JSLG3"
+  },
+  {
+    "nome": "KARSTEN",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "CTKA4"
+  },
+  {
+    "nome": "KARSTEN",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "CTKA3"
+  },
+  {
+    "nome": "KEPLER WEBER",
+    "tipo": "UNT",
+    "segmento": "",
+    "ticker": "KEPL11"
+  },
+  {
+    "nome": "KEPLER WEBER",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "KEPL3"
+  },
+  {
+    "nome": "KLABIN S/A",
+    "tipo": "UNT",
+    "segmento": "N2",
+    "ticker": "KLBN11"
+  },
+  {
+    "nome": "KLABIN S/A",
+    "tipo": "PN",
+    "segmento": "N2",
+    "ticker": "KLBN4"
+  },
+  {
+    "nome": "KLABIN S/A",
+    "tipo": "ON",
+    "segmento": "N2",
+    "ticker": "KLBN3"
+  },
+  {
+    "nome": "LAVVI",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "LAVV3"
+  },
+  {
+    "nome": "LE LIS BLANC",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "LLIS3"
+  },
+  {
+    "nome": "LIFEMED",
+    "tipo": "ON",
+    "segmento": "MA",
+    "ticker": "LMED3"
+  },
+  {
+    "nome": "LIGHT S/A",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "LIGT3"
+  },
+  {
+    "nome": "LINX",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "LINX3"
+  },
+  {
+    "nome": "LITEL",
+    "tipo": "ON",
+    "segmento": "MB",
+    "ticker": "LTEL3B"
+  },
+  {
+    "nome": "LITELA",
+    "tipo": "ON",
+    "segmento": "MB",
+    "ticker": "LTLA3B"
+  },
+  {
+    "nome": "LOCALIZA",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "RENT3"
+  },
+  {
+    "nome": "LOCAMERICA",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "LCAM3"
+  },
+  {
+    "nome": "LOCAWEB",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "LWSA3"
+  },
+  {
+    "nome": "LOG COM PROP",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "LOGG3"
+  },
+  {
+    "nome": "LOG-IN",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "LOGN3"
+  },
+  {
+    "nome": "LOJAS AMERIC",
+    "tipo": "PN",
+    "segmento": "N1",
+    "ticker": "LAME4"
+  },
+  {
+    "nome": "LOJAS AMERIC",
+    "tipo": "ON",
+    "segmento": "N1",
+    "ticker": "LAME3"
+  },
+  {
+    "nome": "LOJAS MARISA",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "AMAR3"
+  },
+  {
+    "nome": "LOJAS RENNER",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "LREN3"
+  },
+  {
+    "nome": "LOPES BRASIL",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "LPSB3"
+  },
+  {
+    "nome": "LUPATECH",
+    "tipo": "UNT",
+    "segmento": "NM",
+    "ticker": "LUPA11"
+  },
+  {
+    "nome": "LUPATECH",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "LUPA3"
+  },
+  {
+    "nome": "M.DIASBRANCO",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "MDIA3"
+  },
+  {
+    "nome": "MAESTROLOC",
+    "tipo": "ON",
+    "segmento": "MA",
+    "ticker": "MSRO3"
+  },
+  {
+    "nome": "MAGAZ LUIZA",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "MGLU3"
+  },
+  {
+    "nome": "MANGELS INDL",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "MGEL4"
+  },
+  {
+    "nome": "MANGELS INDL",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "MGEL3"
+  },
+  {
+    "nome": "MARCOPOLO",
+    "tipo": "PN",
+    "segmento": "N2",
+    "ticker": "POMO4"
+  },
+  {
+    "nome": "MARCOPOLO",
+    "tipo": "ON",
+    "segmento": "N2",
+    "ticker": "POMO3"
+  },
+  {
+    "nome": "MARFRIG",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "MRFG3"
+  },
+  {
+    "nome": "MELHOR SP",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "MSPA4"
+  },
+  {
+    "nome": "MELHOR SP",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "MSPA3"
+  },
+  {
+    "nome": "MELIUZ",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "CASH3"
+  },
+  {
+    "nome": "MELNICK",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "MELK3"
+  },
+  {
+    "nome": "MENEZES CORT",
+    "tipo": "ON",
+    "segmento": "MB",
+    "ticker": "MNZC3B"
+  },
+  {
+    "nome": "MERC BRASIL",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "BMEB4"
+  },
+  {
+    "nome": "MERC BRASIL",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "BMEB3"
+  },
+  {
+    "nome": "MERC FINANC",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "MERC4"
+  },
+  {
+    "nome": "MERC FINANC",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "MERC3"
+  },
+  {
+    "nome": "MERC INVEST",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "BMIN4"
+  },
+  {
+    "nome": "MERC INVEST",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "BMIN3"
+  },
+  {
+    "nome": "METAL IGUACU",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "MTIG4"
+  },
+  {
+    "nome": "METAL IGUACU",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "MTIG3"
+  },
+  {
+    "nome": "METAL LEVE",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "LEVE3"
+  },
+  {
+    "nome": "METALFRIO",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "FRIO3"
+  },
+  {
+    "nome": "METISA",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "MTSA4"
+  },
+  {
+    "nome": "METISA",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "MTSA3"
+  },
+  {
+    "nome": "MILLS",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "MILS3"
+  },
+  {
+    "nome": "MINASMAQUINA",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "MMAQ4"
+  },
+  {
+    "nome": "MINASMAQUINA",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "MMAQ3"
+  },
+  {
+    "nome": "MINERVA",
+    "tipo": "UNT",
+    "segmento": "NM",
+    "ticker": "BEEF11"
+  },
+  {
+    "nome": "MINERVA",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "BEEF3"
+  },
+  {
+    "nome": "MINUPAR",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "MNPR3"
+  },
+  {
+    "nome": "MITRE REALTY",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "MTRE3"
+  },
+  {
+    "nome": "MMX MINER",
+    "tipo": "UNT",
+    "segmento": "NM",
+    "ticker": "MMXM11"
+  },
+  {
+    "nome": "MMX MINER",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "MMXM3"
+  },
+  {
+    "nome": "MONT ARANHA",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "MOAR3"
+  },
+  {
+    "nome": "MOURA DUBEUX",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "MDNE3"
+  },
+  {
+    "nome": "MOVIDA",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "MOVI3"
+  },
+  {
+    "nome": "MRS LOGIST",
+    "tipo": "PNB",
+    "segmento": "MB",
+    "ticker": "MRSA6B"
+  },
+  {
+    "nome": "MRS LOGIST",
+    "tipo": "PNA",
+    "segmento": "MB",
+    "ticker": "MRSA5B"
+  },
+  {
+    "nome": "MRS LOGIST",
+    "tipo": "ON",
+    "segmento": "MB",
+    "ticker": "MRSA3B"
+  },
+  {
+    "nome": "MRV",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "MRVE3"
+  },
+  {
+    "nome": "MULTIPLAN",
+    "tipo": "ON",
+    "segmento": "N2",
+    "ticker": "MULT3"
+  },
+  {
+    "nome": "MUNDIAL",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "MNDL3"
+  },
+  {
+    "nome": "NEOENERGIA",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "NEOE3"
+  },
+  {
+    "nome": "NORD BRASIL",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "BNBR3"
+  },
+  {
+    "nome": "NORDON MET",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "NORD3"
+  },
+  {
+    "nome": "NORTCQUIMICA",
+    "tipo": "ON",
+    "segmento": "MA",
+    "ticker": "NRTQ3"
+  },
+  {
+    "nome": "NUTRIPLANT",
+    "tipo": "ON",
+    "segmento": "MA",
+    "ticker": "NUTR3"
+  },
+  {
+    "nome": "ODERICH",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "ODER4"
+  },
+  {
+    "nome": "ODERICH",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "ODER3"
+  },
+  {
+    "nome": "ODONTOPREV",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "ODPV3"
+  },
+  {
+    "nome": "OI",
+    "tipo": "PN",
+    "segmento": "N1",
+    "ticker": "OIBR4"
+  },
+  {
+    "nome": "OI",
+    "tipo": "ON",
+    "segmento": "N1",
+    "ticker": "OIBR3"
+  },
+  {
+    "nome": "OMEGA GER",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "OMGE3"
+  },
+  {
+    "nome": "OPPORT ENERG",
+    "tipo": "ON",
+    "segmento": "MB",
+    "ticker": "OPHE3B"
+  },
+  {
+    "nome": "OSX BRASIL",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "OSXB3"
+  },
+  {
+    "nome": "OUROFINO S/A",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "OFSA3"
+  },
+  {
+    "nome": "P.ACUCAR-CBD",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "PCAR3"
+  },
+  {
+    "nome": "PADTEC",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "PDTC3"
+  },
+  {
+    "nome": "PAGUE MENOS",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "PGMN3"
+  },
+  {
+    "nome": "PANATLANTICA",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "PATI4"
+  },
+  {
+    "nome": "PANATLANTICA",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "PATI3"
+  },
+  {
+    "nome": "PAR AL BAHIA",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "PEAB4"
+  },
+  {
+    "nome": "PAR AL BAHIA",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "PEAB3"
+  },
+  {
+    "nome": "PARANAPANEMA",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "PMAM3"
+  },
+  {
+    "nome": "PDG REALT",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "PDGR3"
+  },
+  {
+    "nome": "PDG SECURIT",
+    "tipo": "",
+    "segmento": "",
+    "ticker": "PDGS-CRI15B0"
+  },
+  {
+    "nome": "PET MANGUINH",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "RPMG3"
+  },
+  {
+    "nome": "PETROBRAS",
+    "tipo": "PN",
+    "segmento": "N2",
+    "ticker": "PETR4"
+  },
+  {
+    "nome": "PETROBRAS",
+    "tipo": "ON",
+    "segmento": "N2",
+    "ticker": "PETR3"
+  },
+  {
+    "nome": "PETROBRAS BR",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "BRDT3"
+  },
+  {
+    "nome": "PETRORIO",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "PRIO3"
+  },
+  {
+    "nome": "PETTENATI",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "PTNT4"
+  },
+  {
+    "nome": "PETTENATI",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "PTNT3"
+  },
+  {
+    "nome": "PETZ",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "PETZ3"
+  },
+  {
+    "nome": "PINE",
+    "tipo": "PN",
+    "segmento": "N2",
+    "ticker": "PINE4"
+  },
+  {
+    "nome": "PINE",
+    "tipo": "ON",
+    "segmento": "N2",
+    "ticker": "PINE3"
+  },
+  {
+    "nome": "PLANOEPLANO",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "PLPL3"
+  },
+  {
+    "nome": "PLASCAR PART",
+    "tipo": "UNT",
+    "segmento": "",
+    "ticker": "PLAS11"
+  },
+  {
+    "nome": "PLASCAR PART",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "PLAS3"
+  },
+  {
+    "nome": "POLO CAP SEC",
+    "tipo": "",
+    "segmento": "",
+    "ticker": "PLSC-CRI1CB0"
+  },
+  {
+    "nome": "POLPAR",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "PPAR3"
+  },
+  {
+    "nome": "POMIFRUTAS",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "FRTA3"
+  },
+  {
+    "nome": "PORTO SEGURO",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "PSSA3"
+  },
+  {
+    "nome": "PORTO VM",
+    "tipo": "UNT",
+    "segmento": "",
+    "ticker": "PSVM11"
+  },
+  {
+    "nome": "PORTOBELLO",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "PTBL3"
+  },
+  {
+    "nome": "POSITIVO TEC",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "POSI3"
+  },
+  {
+    "nome": "PPLA",
+    "tipo": "UNT",
+    "segmento": "DR3",
+    "ticker": "PPLA11"
+  },
+  {
+    "nome": "PRATICA",
+    "tipo": "UNT",
+    "segmento": "M2",
+    "ticker": "PTCA11"
+  },
+  {
+    "nome": "PRATICA",
+    "tipo": "ON",
+    "segmento": "M2",
+    "ticker": "PTCA3"
+  },
+  {
+    "nome": "PRINER",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "PRNR3"
+  },
+  {
+    "nome": "PROFARMA",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "PFRM3"
+  },
+  {
+    "nome": "PROMAN",
+    "tipo": "ON",
+    "segmento": "MB",
+    "ticker": "PRMN3B"
+  },
+  {
+    "nome": "PROMPT PART",
+    "tipo": "ON",
+    "segmento": "MB",
+    "ticker": "PRPT3B"
+  },
+  {
+    "nome": "QUALICORP",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "QUAL3"
+  },
+  {
+    "nome": "QUALITY SOFT",
+    "tipo": "ON",
+    "segmento": "MA",
+    "ticker": "QUSW3"
+  },
+  {
+    "nome": "QUERO-QUERO",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "LJQQ3"
+  },
+  {
+    "nome": "RAIADROGASIL",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "RADL3"
+  },
+  {
+    "nome": "RANDON PART",
+    "tipo": "PN",
+    "segmento": "N1",
+    "ticker": "RAPT4"
+  },
+  {
+    "nome": "RANDON PART",
+    "tipo": "ON",
+    "segmento": "N1",
+    "ticker": "RAPT3"
+  },
+  {
+    "nome": "RBCAPITALRES",
+    "tipo": "",
+    "segmento": "MB",
+    "ticker": "RBRA-CRA13B0"
+  },
+  {
+    "nome": "RBCAPITALRES",
+    "tipo": "",
+    "segmento": "MB",
+    "ticker": "RBRA-CRA16B0"
+  },
+  {
+    "nome": "RBCAPITALRES",
+    "tipo": "",
+    "segmento": "MB",
+    "ticker": "RBRA-CRA19B0"
+  },
+  {
+    "nome": "RBCAPITALRES",
+    "tipo": "",
+    "segmento": "MB",
+    "ticker": "RBRA-CRA1BB0"
+  },
+  {
+    "nome": "RBCAPITALRES",
+    "tipo": "",
+    "segmento": "MB",
+    "ticker": "RBRA-CRA1CB0"
+  },
+  {
+    "nome": "RBCAPITALRES",
+    "tipo": "",
+    "segmento": "MB",
+    "ticker": "RBRA-CRI1XB0"
+  },
+  {
+    "nome": "RBCAPITALRES",
+    "tipo": "",
+    "segmento": "MB",
+    "ticker": "RBRA-CRI77B0"
+  },
+  {
+    "nome": "RECRUSUL",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "RCSL4"
+  },
+  {
+    "nome": "RECRUSUL",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "RCSL3"
+  },
+  {
+    "nome": "REDE ENERGIA",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "REDE3"
+  },
+  {
+    "nome": "RENOVA",
+    "tipo": "UNT",
+    "segmento": "N2",
+    "ticker": "RNEW11"
+  },
+  {
+    "nome": "RENOVA",
+    "tipo": "PN",
+    "segmento": "N2",
+    "ticker": "RNEW4"
+  },
+  {
+    "nome": "RENOVA",
+    "tipo": "ON",
+    "segmento": "N2",
+    "ticker": "RNEW3"
+  },
+  {
+    "nome": "RIOSULENSE",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "RSUL4"
+  },
+  {
+    "nome": "RIOSULENSE",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "RSUL3"
+  },
+  {
+    "nome": "RNI",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "RDNI3"
+  },
+  {
+    "nome": "ROSSI RESID",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "RSID3"
+  },
+  {
+    "nome": "RUMO S.A.",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "RAIL3"
+  },
+  {
+    "nome": "SABESP",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "SBSP3"
+  },
+  {
+    "nome": "SANEPAR",
+    "tipo": "UNT",
+    "segmento": "N2",
+    "ticker": "SAPR11"
+  },
+  {
+    "nome": "SANEPAR",
+    "tipo": "PN",
+    "segmento": "N2",
+    "ticker": "SAPR4"
+  },
+  {
+    "nome": "SANEPAR",
+    "tipo": "ON",
+    "segmento": "N2",
+    "ticker": "SAPR3"
+  },
+  {
+    "nome": "SANSUY",
+    "tipo": "PNB",
+    "segmento": "",
+    "ticker": "SNSY6"
+  },
+  {
+    "nome": "SANSUY",
+    "tipo": "PNA",
+    "segmento": "",
+    "ticker": "SNSY5"
+  },
+  {
+    "nome": "SANSUY",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "SNSY3"
+  },
+  {
+    "nome": "SANTANDER BR",
+    "tipo": "UNT",
+    "segmento": "",
+    "ticker": "SANB11"
+  },
+  {
+    "nome": "SANTANDER BR",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "SANB4"
+  },
+  {
+    "nome": "SANTANDER BR",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "SANB3"
+  },
+  {
+    "nome": "SANTANENSE",
+    "tipo": "PND",
+    "segmento": "",
+    "ticker": "CTSA8"
+  },
+  {
+    "nome": "SANTANENSE",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "CTSA4"
+  },
+  {
+    "nome": "SANTANENSE",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "CTSA3"
+  },
+  {
+    "nome": "SANTOS BRP",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "STBP3"
+  },
+  {
+    "nome": "SAO CARLOS",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "SCAR3"
+  },
+  {
+    "nome": "SAO MARTINHO",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "SMTO3"
+  },
+  {
+    "nome": "SARAIVA LIVR",
+    "tipo": "UNT",
+    "segmento": "N2",
+    "ticker": "SLED11"
+  },
+  {
+    "nome": "SARAIVA LIVR",
+    "tipo": "PN",
+    "segmento": "N2",
+    "ticker": "SLED4"
+  },
+  {
+    "nome": "SARAIVA LIVR",
+    "tipo": "ON",
+    "segmento": "N2",
+    "ticker": "SLED3"
+  },
+  {
+    "nome": "SARAIVA LIVR",
+    "tipo": "",
+    "segmento": "N2",
+    "ticker": "SLED12"
+  },
+  {
+    "nome": "SCHULZ",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "SHUL4"
+  },
+  {
+    "nome": "SCHULZ",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "SHUL3"
+  },
+  {
+    "nome": "SEG AL BAHIA",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "CSAB4"
+  },
+  {
+    "nome": "SEG AL BAHIA",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "CSAB3"
+  },
+  {
+    "nome": "SEQUOIA LOG",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "SEQL3"
+  },
+  {
+    "nome": "SER EDUCA",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "SEER3"
+  },
+  {
+    "nome": "SID NACIONAL",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "CSNA3"
+  },
+  {
+    "nome": "SIMPAR",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "SIMH3"
+  },
+  {
+    "nome": "SINQIA",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "SQIA3"
+  },
+  {
+    "nome": "SLC AGRICOLA",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "SLCE3"
+  },
+  {
+    "nome": "SMART FIT",
+    "tipo": "ON",
+    "segmento": "M2",
+    "ticker": "SMFT3"
+  },
+  {
+    "nome": "SMILES",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "SMLS3"
+  },
+  {
+    "nome": "SONDOTECNICA",
+    "tipo": "PNB",
+    "segmento": "",
+    "ticker": "SOND6"
+  },
+  {
+    "nome": "SONDOTECNICA",
+    "tipo": "PNA",
+    "segmento": "",
+    "ticker": "SOND5"
+  },
+  {
+    "nome": "SONDOTECNICA",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "SOND3"
+  },
+  {
+    "nome": "SPRINGS",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "SGPS3"
+  },
+  {
+    "nome": "SPTURIS",
+    "tipo": "PNB",
+    "segmento": "",
+    "ticker": "AHEB6"
+  },
+  {
+    "nome": "SPTURIS",
+    "tipo": "PNA",
+    "segmento": "",
+    "ticker": "AHEB5"
+  },
+  {
+    "nome": "SPTURIS",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "AHEB3"
+  },
+  {
+    "nome": "STARA",
+    "tipo": "ON",
+    "segmento": "MA",
+    "ticker": "STTR3"
+  },
+  {
+    "nome": "STATKRAFT",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "STKF3"
+  },
+  {
+    "nome": "SUDESTE S/A",
+    "tipo": "ON",
+    "segmento": "MB",
+    "ticker": "OPSE3B"
+  },
+  {
+    "nome": "SUL 116 PART",
+    "tipo": "ON",
+    "segmento": "MB",
+    "ticker": "OPTS3B"
+  },
+  {
+    "nome": "SUL AMERICA",
+    "tipo": "UNT",
+    "segmento": "N2",
+    "ticker": "SULA11"
+  },
+  {
+    "nome": "SUL AMERICA",
+    "tipo": "PN",
+    "segmento": "N2",
+    "ticker": "SULA4"
+  },
+  {
+    "nome": "SUL AMERICA",
+    "tipo": "ON",
+    "segmento": "N2",
+    "ticker": "SULA3"
+  },
+  {
+    "nome": "SUZANO HOLD",
+    "tipo": "PNB",
+    "segmento": "",
+    "ticker": "NEMO6"
+  },
+  {
+    "nome": "SUZANO HOLD",
+    "tipo": "PNA",
+    "segmento": "",
+    "ticker": "NEMO5"
+  },
+  {
+    "nome": "SUZANO HOLD",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "NEMO3"
+  },
+  {
+    "nome": "SUZANO S.A.",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "SUZB3"
+  },
+  {
+    "nome": "TAESA",
+    "tipo": "UNT",
+    "segmento": "N2",
+    "ticker": "TAEE11"
+  },
+  {
+    "nome": "TAESA",
+    "tipo": "PN",
+    "segmento": "N2",
+    "ticker": "TAEE4"
+  },
+  {
+    "nome": "TAESA",
+    "tipo": "ON",
+    "segmento": "N2",
+    "ticker": "TAEE3"
+  },
+  {
+    "nome": "TAURUS ARMAS",
+    "tipo": "PN",
+    "segmento": "N2",
+    "ticker": "TASA4"
+  },
+  {
+    "nome": "TAURUS ARMAS",
+    "tipo": "ON",
+    "segmento": "N2",
+    "ticker": "TASA3"
+  },
+  {
+    "nome": "TAURUS ARMAS",
+    "tipo": "",
+    "segmento": "N2",
+    "ticker": "TASA13"
+  },
+  {
+    "nome": "TAURUS ARMAS",
+    "tipo": "",
+    "segmento": "N2",
+    "ticker": "TASA15"
+  },
+  {
+    "nome": "TAURUS ARMAS",
+    "tipo": "",
+    "segmento": "N2",
+    "ticker": "TASA17"
+  },
+  {
+    "nome": "TECHNOS",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "TECN3"
+  },
+  {
+    "nome": "TECNISA",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "TCSA3"
+  },
+  {
+    "nome": "TECNOSOLO",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "TCNO4"
+  },
+  {
+    "nome": "TECNOSOLO",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "TCNO3"
+  },
+  {
+    "nome": "TEGMA",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "TGMA3"
+  },
+  {
+    "nome": "TEKA",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "TEKA4"
+  },
+  {
+    "nome": "TEKA",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "TEKA3"
+  },
+  {
+    "nome": "TEKNO",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "TKNO4"
+  },
+  {
+    "nome": "TEKNO",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "TKNO3"
+  },
+  {
+    "nome": "TELEBRAS",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "TELB4"
+  },
+  {
+    "nome": "TELEBRAS",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "TELB3"
+  },
+  {
+    "nome": "TELEF BRASIL",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "VIVT3"
+  },
+  {
+    "nome": "TENDA",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "TEND3"
+  },
+  {
+    "nome": "TERRA SANTA",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "TESA3"
+  },
+  {
+    "nome": "TERRA SANTA",
+    "tipo": "",
+    "segmento": "NM",
+    "ticker": "TESA12"
+  },
+  {
+    "nome": "TEX RENAUX",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "TXRX3"
+  },
+  {
+    "nome": "TIM",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "TIMS3"
+  },
+  {
+    "nome": "TIME FOR FUN",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "SHOW3"
+  },
+  {
+    "nome": "TOTVS",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "TOTS3"
+  },
+  {
+    "nome": "TRACK FIELD",
+    "tipo": "PN",
+    "segmento": "N2",
+    "ticker": "TFCO4"
+  },
+  {
+    "nome": "TRAN PAULIST",
+    "tipo": "PN",
+    "segmento": "N1",
+    "ticker": "TRPL4"
+  },
+  {
+    "nome": "TRAN PAULIST",
+    "tipo": "ON",
+    "segmento": "N1",
+    "ticker": "TRPL3"
+  },
+  {
+    "nome": "TREVISA",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "LUXM4"
+  },
+  {
+    "nome": "TREVISA",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "LUXM3"
+  },
+  {
+    "nome": "TRISUL",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "TRIS3"
+  },
+  {
+    "nome": "TRIUNFO PART",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "TPIS3"
+  },
+  {
+    "nome": "TRUESEC",
+    "tipo": "",
+    "segmento": "",
+    "ticker": "APCS-CRI05B0"
+  },
+  {
+    "nome": "TUPY",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "TUPY3"
+  },
+  {
+    "nome": "ULTRAPAR",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "UGPA3"
+  },
+  {
+    "nome": "UNICASA",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "UCAS3"
+  },
+  {
+    "nome": "UNIPAR",
+    "tipo": "PNB",
+    "segmento": "",
+    "ticker": "UNIP6"
+  },
+  {
+    "nome": "UNIPAR",
+    "tipo": "PNA",
+    "segmento": "",
+    "ticker": "UNIP5"
+  },
+  {
+    "nome": "UNIPAR",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "UNIP3"
+  },
+  {
+    "nome": "UPTICK",
+    "tipo": "ON",
+    "segmento": "MB",
+    "ticker": "UPKP3B"
+  },
+  {
+    "nome": "USIMINAS",
+    "tipo": "PNB",
+    "segmento": "N1",
+    "ticker": "USIM6"
+  },
+  {
+    "nome": "USIMINAS",
+    "tipo": "PNA",
+    "segmento": "N1",
+    "ticker": "USIM5"
+  },
+  {
+    "nome": "USIMINAS",
+    "tipo": "ON",
+    "segmento": "N1",
+    "ticker": "USIM3"
+  },
+  {
+    "nome": "VALE",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "VALE3"
+  },
+  {
+    "nome": "VALID",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "VLID3"
+  },
+  {
+    "nome": "VERTCIASEC",
+    "tipo": "",
+    "segmento": "",
+    "ticker": "VERT-CRAE2B0"
+  },
+  {
+    "nome": "VIAVAREJO",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "VVAR3"
+  },
+  {
+    "nome": "VIVARA S.A.",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "VIVA3"
+  },
+  {
+    "nome": "VIVER",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "VIVR3"
+  },
+  {
+    "nome": "VULCABRAS",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "VULC3"
+  },
+  {
+    "nome": "WEG",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "WEGE3"
+  },
+  {
+    "nome": "WETZEL S/A",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "MWET4"
+  },
+  {
+    "nome": "WETZEL S/A",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "MWET3"
+  },
+  {
+    "nome": "WHIRLPOOL",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "WHRL4"
+  },
+  {
+    "nome": "WHIRLPOOL",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "WHRL3"
+  },
+  {
+    "nome": "WILSON SONS",
+    "tipo": "",
+    "segmento": "DR3",
+    "ticker": "WSON33"
+  },
+  {
+    "nome": "WIZ S.A.",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "WIZS3"
+  },
+  {
+    "nome": "WLM IND COM",
+    "tipo": "PN",
+    "segmento": "",
+    "ticker": "WLMM4"
+  },
+  {
+    "nome": "WLM IND COM",
+    "tipo": "ON",
+    "segmento": "",
+    "ticker": "WLMM3"
+  },
+  {
+    "nome": "YDUQS PART",
+    "tipo": "ON",
+    "segmento": "NM",
+    "ticker": "YDUQ3"
+  }
+]

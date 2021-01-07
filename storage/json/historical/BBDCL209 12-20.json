@@ -1,0 +1,510 @@
+{
+  "ranges": [
+    {
+      "start": "29/10/2020",
+      "end": "17/12/2020"
+    }
+  ],
+  "historical": [
+    {
+      "data": "29/10/2020",
+      "fechamento": 1.2,
+      "variacao": -0.27,
+      "variacao_%": -18.37,
+      "abertura": 1.47,
+      "maxima": 1.47,
+      "minima": 0.85,
+      "volume": 4111000
+    },
+    {
+      "data": "30/10/2020",
+      "fechamento": 0.97,
+      "variacao": -0.23,
+      "variacao_%": -19.17,
+      "abertura": 1.08,
+      "maxima": 1.17,
+      "minima": 0.87,
+      "volume": 2611600
+    },
+    {
+      "data": "31/10/2020",
+      "fechamento": 0.97,
+      "variacao": 0,
+      "variacao_%": 0,
+      "abertura": 0.97,
+      "maxima": 0.97,
+      "minima": 0.97,
+      "volume": 0
+    },
+    {
+      "data": "01/11/2020",
+      "fechamento": 0.97,
+      "variacao": 0,
+      "variacao_%": 0,
+      "abertura": 0.97,
+      "maxima": 0.97,
+      "minima": 0.97,
+      "volume": 0
+    },
+    {
+      "data": "02/11/2020",
+      "fechamento": 0.97,
+      "variacao": 0,
+      "variacao_%": 0,
+      "abertura": 0.97,
+      "maxima": 0.97,
+      "minima": 0.97,
+      "volume": 0
+    },
+    {
+      "data": "03/11/2020",
+      "fechamento": 1.32,
+      "variacao": 0.35,
+      "variacao_%": 36.08,
+      "abertura": 1.17,
+      "maxima": 1.32,
+      "minima": 1.02,
+      "volume": 852500
+    },
+    {
+      "data": "04/11/2020",
+      "fechamento": 1.11,
+      "variacao": -0.21,
+      "variacao_%": -15.91,
+      "abertura": 1.5,
+      "maxima": 1.6,
+      "minima": 0.93,
+      "volume": 742400
+    },
+    {
+      "data": "05/11/2020",
+      "fechamento": 1.19,
+      "variacao": 0.08,
+      "variacao_%": 7.21,
+      "abertura": 1.2,
+      "maxima": 1.3,
+      "minima": 0.92,
+      "volume": 4251600
+    },
+    {
+      "data": "06/11/2020",
+      "fechamento": 1.07,
+      "variacao": -0.12,
+      "variacao_%": -10.08,
+      "abertura": 1.07,
+      "maxima": 1.18,
+      "minima": 0.99,
+      "volume": 1191700
+    },
+    {
+      "data": "07/11/2020",
+      "fechamento": 1.07,
+      "variacao": 0,
+      "variacao_%": 0,
+      "abertura": 1.07,
+      "maxima": 1.07,
+      "minima": 1.07,
+      "volume": 0
+    },
+    {
+      "data": "08/11/2020",
+      "fechamento": 1.07,
+      "variacao": 0,
+      "variacao_%": 0,
+      "abertura": 1.07,
+      "maxima": 1.07,
+      "minima": 1.07,
+      "volume": 0
+    },
+    {
+      "data": "09/11/2020",
+      "fechamento": 2.44,
+      "variacao": 1.37,
+      "variacao_%": 128.04,
+      "abertura": 1.3,
+      "maxima": 2.55,
+      "minima": 1.3,
+      "volume": 1607900
+    },
+    {
+      "data": "10/11/2020",
+      "fechamento": 3.81,
+      "variacao": 1.37,
+      "variacao_%": 56.15,
+      "abertura": 2.3,
+      "maxima": 3.94,
+      "minima": 2.3,
+      "volume": 381400
+    },
+    {
+      "data": "11/11/2020",
+      "fechamento": 3.18,
+      "variacao": -0.63,
+      "variacao_%": -16.54,
+      "abertura": 3.5,
+      "maxima": 3.86,
+      "minima": 3,
+      "volume": 51500
+    },
+    {
+      "data": "12/11/2020",
+      "fechamento": 2.85,
+      "variacao": -0.33,
+      "variacao_%": -10.38,
+      "abertura": 3.41,
+      "maxima": 3.66,
+      "minima": 2.75,
+      "volume": 95400
+    },
+    {
+      "data": "13/11/2020",
+      "fechamento": 3.5,
+      "variacao": 0.65,
+      "variacao_%": 22.81,
+      "abertura": 2.95,
+      "maxima": 3.5,
+      "minima": 2.95,
+      "volume": 51400
+    },
+    {
+      "data": "14/11/2020",
+      "fechamento": 3.5,
+      "variacao": 0,
+      "variacao_%": 0,
+      "abertura": 3.5,
+      "maxima": 3.5,
+      "minima": 3.5,
+      "volume": 0
+    },
+    {
+      "data": "15/11/2020",
+      "fechamento": 3.5,
+      "variacao": 0,
+      "variacao_%": 0,
+      "abertura": 3.5,
+      "maxima": 3.5,
+      "minima": 3.5,
+      "volume": 0
+    },
+    {
+      "data": "16/11/2020",
+      "fechamento": 4.64,
+      "variacao": 1.14,
+      "variacao_%": 32.57,
+      "abertura": 4.25,
+      "maxima": 4.64,
+      "minima": 4.1,
+      "volume": 23700
+    },
+    {
+      "data": "17/11/2020",
+      "fechamento": 4.65,
+      "variacao": 0.01,
+      "variacao_%": 0.22,
+      "abertura": 4.33,
+      "maxima": 4.65,
+      "minima": 4.01,
+      "volume": 316100
+    },
+    {
+      "data": "18/11/2020",
+      "fechamento": 4.23,
+      "variacao": -0.42,
+      "variacao_%": -9.03,
+      "abertura": 4.65,
+      "maxima": 4.65,
+      "minima": 4.1,
+      "volume": 34000
+    },
+    {
+      "data": "19/11/2020",
+      "fechamento": 4,
+      "variacao": -0.23,
+      "variacao_%": -5.44,
+      "abertura": 4.23,
+      "maxima": 4.38,
+      "minima": 4,
+      "volume": 55000
+    },
+    {
+      "data": "20/11/2020",
+      "fechamento": 3.62,
+      "variacao": -0.38,
+      "variacao_%": -9.5,
+      "abertura": 4,
+      "maxima": 4,
+      "minima": 3.6,
+      "volume": 42000
+    },
+    {
+      "data": "21/11/2020",
+      "fechamento": 3.62,
+      "variacao": 0,
+      "variacao_%": 0,
+      "abertura": 3.62,
+      "maxima": 3.62,
+      "minima": 3.62,
+      "volume": 0
+    },
+    {
+      "data": "22/11/2020",
+      "fechamento": 3.62,
+      "variacao": 0,
+      "variacao_%": 0,
+      "abertura": 3.62,
+      "maxima": 3.62,
+      "minima": 3.62,
+      "volume": 0
+    },
+    {
+      "data": "23/11/2020",
+      "fechamento": 3.9,
+      "variacao": 0.28,
+      "variacao_%": 7.73,
+      "abertura": 4,
+      "maxima": 4.07,
+      "minima": 3.78,
+      "volume": 2700
+    },
+    {
+      "data": "24/11/2020",
+      "fechamento": 5,
+      "variacao": 1.1,
+      "variacao_%": 28.21,
+      "abertura": 4.25,
+      "maxima": 5.21,
+      "minima": 4.25,
+      "volume": 61100
+    },
+    {
+      "data": "25/11/2020",
+      "fechamento": 4.58,
+      "variacao": -0.42,
+      "variacao_%": -8.4,
+      "abertura": 4.51,
+      "maxima": 4.58,
+      "minima": 4.39,
+      "volume": 20400
+    },
+    {
+      "data": "26/11/2020",
+      "fechamento": 4.17,
+      "variacao": -0.41,
+      "variacao_%": -8.95,
+      "abertura": 4.13,
+      "maxima": 4.17,
+      "minima": 4.13,
+      "volume": 4000
+    },
+    {
+      "data": "27/11/2020",
+      "fechamento": 4.2,
+      "variacao": 0.03,
+      "variacao_%": 0.72,
+      "abertura": 4.45,
+      "maxima": 4.45,
+      "minima": 4.15,
+      "volume": 3300
+    },
+    {
+      "data": "28/11/2020",
+      "fechamento": 4.2,
+      "variacao": 0,
+      "variacao_%": 0,
+      "abertura": 4.2,
+      "maxima": 4.2,
+      "minima": 4.2,
+      "volume": 0
+    },
+    {
+      "data": "29/11/2020",
+      "fechamento": 4.2,
+      "variacao": 0,
+      "variacao_%": 0,
+      "abertura": 4.2,
+      "maxima": 4.2,
+      "minima": 4.2,
+      "volume": 0
+    },
+    {
+      "data": "30/11/2020",
+      "fechamento": 3.76,
+      "variacao": -0.44,
+      "variacao_%": -10.48,
+      "abertura": 3.6,
+      "maxima": 3.76,
+      "minima": 3.6,
+      "volume": 3400
+    },
+    {
+      "data": "01/12/2020",
+      "fechamento": 5.25,
+      "variacao": 1.49,
+      "variacao_%": 39.63,
+      "abertura": 4.02,
+      "maxima": 5.25,
+      "minima": 4.02,
+      "volume": 34000
+    },
+    {
+      "data": "02/12/2020",
+      "fechamento": 5.2,
+      "variacao": -0.05,
+      "variacao_%": -0.95,
+      "abertura": 4.85,
+      "maxima": 5.2,
+      "minima": 4.85,
+      "volume": 12500
+    },
+    {
+      "data": "03/12/2020",
+      "fechamento": 4.99,
+      "variacao": -0.21,
+      "variacao_%": -4.04,
+      "abertura": 4.99,
+      "maxima": 5.9,
+      "minima": 4.99,
+      "volume": 9300
+    },
+    {
+      "data": "04/12/2020",
+      "fechamento": 4.99,
+      "variacao": 0,
+      "variacao_%": 0,
+      "abertura": 4.99,
+      "maxima": 4.99,
+      "minima": 4.99,
+      "volume": 500
+    },
+    {
+      "data": "05/12/2020",
+      "fechamento": 4.99,
+      "variacao": 0,
+      "variacao_%": 0,
+      "abertura": 4.99,
+      "maxima": 4.99,
+      "minima": 4.99,
+      "volume": 0
+    },
+    {
+      "data": "06/12/2020",
+      "fechamento": 4.99,
+      "variacao": 0,
+      "variacao_%": 0,
+      "abertura": 4.99,
+      "maxima": 4.99,
+      "minima": 4.99,
+      "volume": 0
+    },
+    {
+      "data": "07/12/2020",
+      "fechamento": 5.57,
+      "variacao": 0.58,
+      "variacao_%": 11.62,
+      "abertura": 5.5,
+      "maxima": 5.57,
+      "minima": 5.5,
+      "volume": 5700
+    },
+    {
+      "data": "08/12/2020",
+      "fechamento": 4.87,
+      "variacao": -0.7,
+      "variacao_%": -12.57,
+      "abertura": 5.3,
+      "maxima": 5.39,
+      "minima": 4.84,
+      "volume": 14900
+    },
+    {
+      "data": "09/12/2020",
+      "fechamento": 4.95,
+      "variacao": 0.08,
+      "variacao_%": 1.64,
+      "abertura": 4.94,
+      "maxima": 4.96,
+      "minima": 4.85,
+      "volume": 3300
+    },
+    {
+      "data": "10/12/2020",
+      "fechamento": 5.98,
+      "variacao": 1.03,
+      "variacao_%": 20.81,
+      "abertura": 5.55,
+      "maxima": 6.01,
+      "minima": 5.55,
+      "volume": 15300
+    },
+    {
+      "data": "11/12/2020",
+      "fechamento": 5.9,
+      "variacao": -0.08,
+      "variacao_%": -1.34,
+      "abertura": 5.86,
+      "maxima": 5.91,
+      "minima": 5.83,
+      "volume": 5600
+    },
+    {
+      "data": "12/12/2020",
+      "fechamento": 5.9,
+      "variacao": 0,
+      "variacao_%": 0,
+      "abertura": 5.9,
+      "maxima": 5.9,
+      "minima": 5.9,
+      "volume": 0
+    },
+    {
+      "data": "13/12/2020",
+      "fechamento": 5.9,
+      "variacao": 0,
+      "variacao_%": 0,
+      "abertura": 5.9,
+      "maxima": 5.9,
+      "minima": 5.9,
+      "volume": 0
+    },
+    {
+      "data": "14/12/2020",
+      "fechamento": 5.72,
+      "variacao": -0.18,
+      "variacao_%": -3.05,
+      "abertura": 6.1,
+      "maxima": 6.1,
+      "minima": 5.72,
+      "volume": 9500
+    },
+    {
+      "data": "15/12/2020",
+      "fechamento": 5.9,
+      "variacao": 0.18,
+      "variacao_%": 3.15,
+      "abertura": 5.95,
+      "maxima": 6.1,
+      "minima": 5.9,
+      "volume": 3900
+    },
+    {
+      "data": "16/12/2020",
+      "fechamento": 5.6,
+      "variacao": -0.3,
+      "variacao_%": -5.08,
+      "abertura": 5.71,
+      "maxima": 5.71,
+      "minima": 5.57,
+      "volume": 9800
+    },
+    {
+      "data": "17/12/2020",
+      "fechamento": 6.39,
+      "variacao": 0.79,
+      "variacao_%": 14.11,
+      "abertura": 6.71,
+      "maxima": 6.83,
+      "minima": 6.39,
+      "volume": 54000
+    }
+  ]
+}

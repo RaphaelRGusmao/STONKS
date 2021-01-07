@@ -1,0 +1,100 @@
+{
+  "ranges": [
+    {
+      "start": "04/03/2020",
+      "end": "12/03/2020"
+    }
+  ],
+  "historical": [
+    {
+      "data": "04/03/2020",
+      "fechamento": 0.01,
+      "variacao": -0.01,
+      "variacao_%": -50,
+      "abertura": 0.01,
+      "maxima": 0.01,
+      "minima": 0.01,
+      "volume": 352200
+    },
+    {
+      "data": "05/03/2020",
+      "fechamento": 0.02,
+      "variacao": 0.01,
+      "variacao_%": 100,
+      "abertura": 0.01,
+      "maxima": 0.02,
+      "minima": 0.01,
+      "volume": 1852500
+    },
+    {
+      "data": "06/03/2020",
+      "fechamento": 0.1,
+      "variacao": 0.08,
+      "variacao_%": 400,
+      "abertura": 0.02,
+      "maxima": 0.13,
+      "minima": 0.02,
+      "volume": 3899800
+    },
+    {
+      "data": "07/03/2020",
+      "fechamento": 0.1,
+      "variacao": 0,
+      "variacao_%": 0,
+      "abertura": 0.1,
+      "maxima": 0.1,
+      "minima": 0.1,
+      "volume": 0
+    },
+    {
+      "data": "08/03/2020",
+      "fechamento": 0.1,
+      "variacao": 0,
+      "variacao_%": 0,
+      "abertura": 0.1,
+      "maxima": 0.1,
+      "minima": 0.1,
+      "volume": 0
+    },
+    {
+      "data": "09/03/2020",
+      "fechamento": 2.11,
+      "variacao": 2.01,
+      "variacao_%": 2010,
+      "abertura": 0.92,
+      "maxima": 2.2,
+      "minima": 0.88,
+      "volume": 6494200
+    },
+    {
+      "data": "10/03/2020",
+      "fechamento": 0.91,
+      "variacao": -1.2,
+      "variacao_%": -56.87,
+      "abertura": 0.81,
+      "maxima": 1.52,
+      "minima": 0.69,
+      "volume": 3100500
+    },
+    {
+      "data": "11/03/2020",
+      "fechamento": 1.63,
+      "variacao": 0.72,
+      "variacao_%": 79.12,
+      "abertura": 1.2,
+      "maxima": 2,
+      "minima": 0.9,
+      "volume": 836300
+    },
+    {
+      "data": "12/03/2020",
+      "fechamento": 4.04,
+      "variacao": 2.41,
+      "variacao_%": 147.85,
+      "abertura": 3,
+      "maxima": 5.6,
+      "minima": 3,
+      "volume": 43700
+    }
+  ]
+}
