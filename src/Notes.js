@@ -73,8 +73,8 @@ module.exports = class Notes {
 
     // Trades
     let trades = [];
-    index = text.findIndex(line => line == "D/C");
-    while (text[++index] !== "NOTA DE NEGOCIAÇÃO") {
+    index = text[0] == "Negócios realizados"? 11 : -1;
+    while (!["NOTA DE NEGOCIAÇÃO", "Negócios realizados"].includes(text[++index])) {
       let trade = {
         data: data,
         corretora: corretora,
@@ -107,39 +107,42 @@ module.exports = class Notes {
     }
 
     // Taxas
-    let taxes = {
-      // Clearing
-      valor_liquido_das_operacoes: "Valor líquido das operações",
-      taxa_de_liquidacao: "Taxa de liquidação",
-      taxa_de_registro: "Taxa de Registro",
-      total_cblc: "Total CBLC",
-      // Bolsa
-      taxa_de_termo_opcoes: "Taxa de termo/opções",
-      taxa_ana: "Taxa A.N.A.",
-      emolumentos: "Emolumentos",
-      total_bovespa_soma: "Total Bovespa / Soma",
-      // Custos Operacionais
-      taxa_operacional: "Taxa Operacional",
-      execucao: "Execução",
-      taxa_de_custodia: "Taxa de Custódia",
-      impostos: "Impostos",
-      irrf_sobre_operacoes: "I.R.R.F. s/ operações",
-      outros: "Outros",
-      total_custos_despesas: "Total Custos / Despesas",
-      // Líquido
-      liquido: "Líquido"
-    };
-    for (let key in taxes) {
-      index = text.findIndex(line => line.includes(taxes[key]));
-      let value = parseFloat(text[index - 1].replace(/\./g, "").replace(/,/g, "."));
-      if (index >= 0 && !isNaN(value)) taxes[key] = value;
+    let taxes = null;
+    if (text[text.length - 5] != "CONTINUA...") {
+      taxes = {
+        // Clearing
+        valor_liquido_das_operacoes: "Valor líquido das operações",
+        taxa_de_liquidacao: "Taxa de liquidação",
+        taxa_de_registro: "Taxa de Registro",
+        total_cblc: "Total CBLC",
+        // Bolsa
+        taxa_de_termo_opcoes: "Taxa de termo/opções",
+        taxa_ana: "Taxa A.N.A.",
+        emolumentos: "Emolumentos",
+        total_bovespa_soma: "Total Bovespa / Soma",
+        // Custos Operacionais
+        taxa_operacional: "Taxa Operacional",
+        execucao: "Execução",
+        taxa_de_custodia: "Taxa de Custódia",
+        impostos: "Impostos",
+        irrf_sobre_operacoes: "I.R.R.F. s/ operações",
+        outros: "Outros",
+        total_custos_despesas: "Total Custos / Despesas",
+        // Líquido
+        liquido: "Líquido"
+      };
+      for (let key in taxes) {
+        index = text.findIndex(line => line.includes(taxes[key]));
+        let value = parseFloat(text[index - 1].replace(/\./g, "").replace(/,/g, "."));
+        if (index >= 0 && !isNaN(value)) taxes[key] = value;
+      }
+      let taxa_total = parseFloat((taxes["taxa_de_liquidacao"]
+                     + taxes["taxa_de_registro"]
+                     + taxes["total_bovespa_soma"]
+                     + taxes["total_custos_despesas"]).toFixed(2));
+      if (!isNaN(taxa_total)) taxes["taxa_total"] = taxa_total;
+      taxes = Object.assign({data: data, corretora: corretora}, taxes);
     }
-    let taxa_total = parseFloat((taxes["taxa_de_liquidacao"]
-                   + taxes["taxa_de_registro"]
-                   + taxes["total_bovespa_soma"]
-                   + taxes["total_custos_despesas"]).toFixed(2));
-    if (!isNaN(taxa_total)) taxes["taxa_total"] = taxa_total;
-    taxes = Object.assign({data: data, corretora: corretora}, taxes);
 
     return [trades, taxes];
   }
@@ -163,18 +166,18 @@ module.exports = class Notes {
     }
     if (!pdf) Utils.exit_with_msg("  Não foi possível abrir o arquivo! Tente uma senha diferente.");
 
-    let numPages = pdf.numPages;
+    let num_pages = pdf.numPages;
 
     let trades = [];
     let taxes = [];
 
-    for (let i = 1; i <= numPages; i++) {
+    for (let i = 1; i <= num_pages; i++) {
       let page = await pdf.getPage(i);
       let content = await page.getTextContent();
       let text = content.items.map(item => item.str);
       let [page_trades, page_taxes] = this.parse_text(text);
       trades.push(...page_trades);
-      taxes.push(page_taxes);
+      if (page_taxes) taxes.push(page_taxes);
     }
 
     return [trades, taxes];
