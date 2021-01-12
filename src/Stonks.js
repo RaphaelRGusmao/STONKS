@@ -26,7 +26,8 @@ module.exports = class Stonks {
     "8": "PND",
     "9": "ON REC",
     "10": "PN REC",
-    "11": "UNT"
+    "11": "UNT",
+    "39": "ETF"
   };
 
   /****************************************************************************/
@@ -55,10 +56,12 @@ module.exports = class Stonks {
     for (let company of companies) {
       for (let ticker of company["tickers"]) {
         stocks.push({
-          nome: company["nome"],
-          tipo: this.get_stock_type(ticker),
-          segmento: company["segmento"],
-          ticker: ticker
+          "nome":         company["nome"],
+          "razao_social": company["razao_social"],
+          "tipo":         this.get_stock_type(ticker),
+          "segmento":     company["segmento"],
+          "cnpj":         company["cnpj"],
+          "ticker":       ticker
         });
       }
     }
@@ -519,7 +522,7 @@ module.exports = class Stonks {
 
   /****************************************************************************/
   // Obtém o rendimento "profit" e a rentabilidade "profitability"  da  carteira
-  // de investimentos "portfolio" entre as datas "from_date" e "to_date".
+  // de investimentos "portfolio" entre as datas range["from"] e range["to"].
   // Output: [ float|"?", float|"?" ]
   static get_profit = (portfolio, range) => {
     if (range["from"].getTime() < portfolio[0]["data"].getTime()) {

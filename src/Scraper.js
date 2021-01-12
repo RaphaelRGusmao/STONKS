@@ -16,61 +16,121 @@ const Utils = require("./Utils");
 /******************************************************************************/
 module.exports = class Scraper {
   /****************************************************************************/
-  // Extrai da internet dados de todas as empresas listadas na bolsa de  valores
-  // brasileira.
+  // Extrai da internet dados de todas as empresas  brasileiras  e  estrangeiras
+  // (BDRs) listadas na Bolsa de Valores Brasileira.
   // Output: [
   //   {
   //     "nome": string,
+  //     "razao_social": string,
+  //     "segmento": string,
   //     "cvm_code": string,
-  //     "tickers": [ string, ... ],
-  //     "segmento": string
+  //     "cnpj": string,
+  //     "tickers": [ string, ... ]
   //   },
   //   ...
   // ]
   static scrape_companies = async () => {
+    let companies = [];
+
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
-    await page.setViewport({ width: 1000, height: 2000 });
     await page.setDefaultNavigationTimeout(0);
 
-    console.log("Acessando lista de empresas...");
+    // Obtém  a lista de empresas brasileiras
+    console.log("Obtendo a lista de empresas brasileiras...");
     await page.goto(Config.COMPANIES_URL);
     await page.click("input[value=Todas]");
     await page.waitForTimeout(Config.SCRAP_DELAY);
-
-    // Obtem os dados de todas as empresas
-    let companies = await page.evaluate(() => {
+    companies.push(...await page.evaluate(() => {
       let table = Array.from(document.querySelector("tbody").children);
-      return table.map(row => {
-        return {
-          "nome":     row.getElementsByTagName("A")[1].text,
-          "cvm_code": row.getElementsByTagName("A")[1].href.split("=")[1],
-          "segmento": row.getElementsByTagName("td")[2].textContent.trim()
-        }
-      });
-    });
+      return table.map(row => ({
+        "nome":         "",
+        "razao_social": row.getElementsByTagName("a")[0].innerText,
+        "segmento":     row.getElementsByTagName("td")[2].textContent.trim(),
+        "cvm_code":     row.getElementsByTagName("a")[1].href.split("=")[1]
+      }));
+    }));
 
-    // Obtem todos os tickers existentes de cada empresa
+    // Obtém a lista de empresas estrangeiras (BDRs)
+    console.log("Obtendo a lista de empresas estrangeiras (BDRs)...");
+    await page.goto(Config.BDRS_URL);
+    await page.waitForTimeout(Config.SCRAP_DELAY);
+    companies.push(...await page.evaluate(() => {
+      let table = Array.from(document.querySelector("tbody").children);
+      return table.map(row => ({
+        "nome":         "",
+        "razao_social": row.getElementsByTagName("a")[0].innerText,
+        "segmento":     row.getElementsByTagName("td")[1].textContent.trim(),
+        "cvm_code":     row.getElementsByTagName("a")[0].href.split("=")[1].split("&")[0]
+      }));
+    }));
+
+    // Obtém o Nome de Pregão, CNPJ e todos os tickers existentes de cada empresa
     for (let i in companies) {
       console.log(
         "(" + parseFloat(100*i/companies.length).toFixed(2) + " % - "
         + (+i + 1) + "/" + companies.length + ") "
-        + "Obtendo tickers de: " + companies[i]["nome"]
+        + "Obtendo dados de: " + companies[i]["razao_social"]
       );
+
+      await Utils.sleep(Config.SCRAP_DELAY);
       await page.goto(Config.COMPANY_URL + companies[i]["cvm_code"]);
-      let tickers = await page.evaluate(() => {
+
+      companies[i] = Object.assign(companies[i], await page.evaluate(() => {
+        let tbody = document.getElementsByTagName("tbody")[0];
         let div = document.querySelector("#spnCodigosOculto").parentElement;
         let list = Array.from(div.getElementsByClassName("LinkCodNeg"));
-        return [...new Set(list.map(element => element.text))];
-      });
-      companies[i]["tickers"] = tickers;
+        return {
+          "nome": tbody.children[0].children[1].innerText,
+          "cnpj": tbody.children[2].children[1].innerText,
+          "tickers": [...new Set(list.map(element => element.text))]
+        };
+      }));
     }
-    companies = companies.filter(company => company["tickers"].length && !company["tickers"].includes(""));
+    companies = this.#clean_companies(companies);
     console.log("(100 %) Pronto!");
 
     await browser.close();
 
     return companies;
+  }
+
+  /****************************************************************************/
+  // Método privado. Realiza a limpeza  dos  dados  das  empresas  extraídos  da
+  // internet.
+  // Output: [
+  //   {
+  //     "nome": string,
+  //     "razao_social": string,
+  //     "segmento": string,
+  //     "cvm_code": string,
+  //     "cnpj": string,
+  //     "tickers": [ string, ... ]
+  //   },
+  //   ...
+  // ]
+  static #clean_companies = (companies) => {
+    let clean = [...companies];
+
+    // Ordena as empresas por nome
+    clean.sort((a, b) => a["nome"].localeCompare(b["nome"]));
+
+    // Remove as empresas que não possuem tickers
+    clean = clean.filter(company => {
+      return company["tickers"].length && !company["tickers"].includes("");
+    });
+
+    // Remove as empresas duplicadas
+    clean = clean.filter((_, i) => {
+      return i == 0 || clean[i]["nome"] != clean[i-1]["nome"];
+    });
+
+    // Remove os CNPJs zerados
+    clean.forEach(company => {
+      if (company["cnpj"] == "00.000.000/0000-00") company["cnpj"] = "";
+    });
+
+    return clean;
   }
 
   /****************************************************************************/

@@ -32,9 +32,11 @@ module.exports = class Storage {
   // [
   //   {
   //     "nome": string,
+  //     "razao_social": string,
+  //     "segmento": string,
   //     "cvm_code": string,
-  //     "tickers": [ string, ... ],
-  //     "segmento": string
+  //     "cnpj": string,
+  //     "tickers": [ string, ... ]
   //   },
   //   ...
   // ]
@@ -56,8 +58,10 @@ module.exports = class Storage {
   // [
   //   {
   //     "nome": string,
+  //     "razao_social": string,
   //     "tipo": string,
   //     "segmento": string,
+  //     "cnpj": string,
   //     "ticker": string
   //   },
   //   ...
@@ -69,10 +73,12 @@ module.exports = class Storage {
       path: this.SHEETS_FOLDER + "stocks.csv",
       encoding : "utf8",
       header: [
-        {id: "nome",     title: "Nome de Pregão"},
-        {id: "tipo",     title: "Tipo"},
-        {id: "segmento", title: "Segmento"},
-        {id: "ticker",   title: "Ticker"}
+        {id: "nome",         title: "Nome de Pregão"},
+        {id: "razao_social", title: "Razão Social"},
+        {id: "tipo",         title: "Tipo"},
+        {id: "segmento",     title: "Segmento"},
+        {id: "cnpj",         title: "CNPJ"},
+        {id: "ticker",       title: "Ticker"}
       ]
     });
     writer.writeRecords(stocks);

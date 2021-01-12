@@ -13,8 +13,8 @@
     "stonks": "node src/main.js"
   },
   "dependencies": {
-    "axios": "^0.21.0",
-    "cheerio": "^1.0.0-rc.3",
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5",
     "csv-writer": "^1.6.0",
     "pdfjs-dist": "^2.5.207",
     "puppeteer": "^5.5.0"

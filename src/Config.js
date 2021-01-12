@@ -15,8 +15,13 @@ module.exports = class Config {
   // Senhas para abrir as Notas de Negociação/Corretagem.
   static PASSWORDS = ["senha1", "senha2"];
 
-  // Página com a lista de todas as empresas listadas na bolsa de valores brasileira.
+  // Página com a lista de todas as empresas brasileiras listadas  na  Bolsa  de
+  // Valores.
   static COMPANIES_URL = "http://bvmf.bmfbovespa.com.br/cias-listadas/empresas-listadas/BuscaEmpresaListada.aspx";
+
+  // Página com a lista de todas as empresas estrangeiras (Brazilian  Depositary
+  // Receipts (BDR)) listadas na Bolsa de Valores.
+  static BDRS_URL = "http://bvmf.bmfbovespa.com.br/cias-listadas/Mercado-Internacional/Mercado-Internacional.aspx";
 
   // Página com informações de uma empresa.
   // Parâmetro: cvm_code

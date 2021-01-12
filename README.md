@@ -80,6 +80,8 @@ comando abaixo:
 ```bash
 $ yarn stocks
 ```
+A lista contém ativos de empresas brasileiras e estrangeiras (Brazilian
+Depositary Receipts ([BDR](https://www.xpi.com.br/investimentos/acoes/bdr/))).
 Este comando só precisa ser executado na primeira vez em que o programa for
 utilizado. Caso ocorram novas Ofertas Públicas Iniciais de Ações
 ([IPO](https://www.xpi.com.br/investimentos/acoes/oferta-publica/)) de empresas
@@ -98,12 +100,14 @@ serão criados:
     // ...
     {
       "nome": "ITAUUNIBANCO",
+      "razao_social": "ITAU UNIBANCO HOLDING S.A.",
+      "segmento": "N1",
       "cvm_code": "19348",
+      "cnpj": "60.872.504/0001-23",
       "tickers": [
         "ITUB3",
         "ITUB4"
-      ],
-      "segmento": "N1"
+      ]
     },
     // ...
 ]
@@ -114,15 +118,20 @@ serão criados:
     // ...
     {
       "nome": "ITAUUNIBANCO",
+      "razao_social": "ITAU UNIBANCO HOLDING S.A.",
       "tipo": "PN",
       "segmento": "N1",
+      "cnpj": "60.872.504/0001-23",
       "ticker": "ITUB4"
     },
+    // ...
     {
-      "nome": "ITAUUNIBANCO",
-      "tipo": "ON",
-      "segmento": "N1",
-      "ticker": "ITUB3"
+      "nome": "TESLA INC",
+      "razao_social": "TESLA. INC",
+      "tipo": "",
+      "segmento": "DRN",
+      "cnpj": "",
+      "ticker": "TSLA34"
     },
     // ...
 ]
@@ -397,7 +406,6 @@ Linguagem utilizada: **Javascript (ES6)**
 
 - Cálculo de preço médio dos ativos.
 - Cálculo de impostos para o DARF.
-- Suporte a Brazilian Depositary Receipts (BDR).
 - Exercício de Opções.
 - Cálculo de Dividendos.
 - Aluguel de Ações.
